@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets>
+
+	<asset id="contentIcon" url="images/contentIcon.swf" enabled="false"/>
+	<asset id="helpIcon" url="images/helpIcon.swf" enabled="false"/>
+	<asset id="preferencesIcon" url="images/preferencesIcon.swf" enabled="false"/>
+	<asset id="structureIcon" url="images/structureIcon.swf" enabled="false"/>
+	<asset id="wizardIcon" url="images/wizardIcon.swf" enabled="false"/>
+
+</assets>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<htmlwidget>
+	<configuration>
+		<option id="showScrollBars">
+			<value>false</value>
+		</option>
+		<option id="useIFrame">
+			<value>false</value>
+		</option>
+	</configuration>
+	<data><![CDATA[<html>	<head>		<!-- paste style and script here -->	</head>	<body style="background: transparent; border: none;">
+		<!-- paste code here -->
+	</body></html>]]></data>
+</htmlwidget>

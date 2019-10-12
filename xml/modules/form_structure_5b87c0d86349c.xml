@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contactFormStructure>
+	<formItems><item id="1" required="true" type="text" x="0" y="0" width="782" height="54" mailOrder="1" tabOrder="1"><label><![CDATA[01:name]]></label><textToShow><![CDATA[YOUR NAME]]></textToShow></item><item id="2" required="true" type="text" x="0" y="74" width="782" height="54" mailOrder="2" tabOrder="2"><label><![CDATA[02:email]]></label><textToShow><![CDATA[YOUR E-MAIL]]></textToShow><validator>EmailValidator</validator></item><item id="3" required="true" type="text" x="0" y="146" width="782" height="110" mailOrder="3" tabOrder="3"><label><![CDATA[03:message]]></label><textToShow><![CDATA[YOUR MESSAGE]]></textToShow><multiline>true</multiline></item></formItems>
+	<formControls><item type="submitButton" x="0" y="296" width="130" height="50"/><item type="resetButton" x="0" y="0" width="0" height="0"/><item type="statusMessage" x="164" y="263" width="596" height="57"/></formControls>
+</contactFormStructure>

@@ -1,0 +1,2 @@
+<?php
+class PropertyTypeDataProviderItemVO { public $data = ''; public $label = ''; public function __construct($parent = null) { if ($parent != null) { $this->label = $parent->nodeValue; if ($parent->hasAttribute('data')) $this->data = $parent->getAttribute('data'); } } }

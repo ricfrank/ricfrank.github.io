@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <text id="E_UPDATECMS"><![CDATA[Error while performing backup]]></text>
+    <text id="I_WINDOW_TITLE"><![CDATA[CMS backup]]></text> 
+    <text id="I_TITLE"><![CDATA[CMS backup system]]></text>
+    <text id="I_HEADER"><![CDATA[Welcome to CMS backup tool. This wizard will guide you through backup process.]]></text>
+    <text id="I_FOOTER"><![CDATA[Please contact your hosting provider if you need to configure your server. For additional information please email <a href="mailto:support@cms-guide.com">support@cms-guide.com</a>]]></text>
+    <text id="I_STEP_INIT"><![CDATA[<b>Starting backup tool.</b><br/>]]></text>
+    <text id="E_PRECHECK_FAIL"><![CDATA[<b>Preliminary check failed.</b><br/>Please fix all errors and try running the tool again.]]></text>
+    <text id="N_PRECHECK_NO_ZIP"><![CDATA[<b>ZipArchive</b> cannot be found. Your backup files will not be archived but you still will be able to download them via FTP.<br>]]></text>
+    <text id="E_BACKUP_STORAGE_NOT_EXISTS"><![CDATA[<b>Backup Service</b>: Folder %storagePath% not found <br/> Please, create it and set permision tto write (0777)]]></text>
+    <text id="E_BACKUP_STORAGE_NOT_WRITEBLE"><![CDATA[<b>Backup Service</b>: Folder %storagePath% not writable. Please allow writing to this folder.<br/>]]></text>
+    <text id="E_DIR_NOT_EXISTS"><![CDATA[Folder %folder% not found<br>]]></text>
+    <text id="AUTHORIZATION_FAILED"><![CDATA[Control panel authorization failed.<br/>Please log on to your <a href="%MOTO_ADMIN_URL%" target="_blank">control panel</a>]]></text>
+    <text id="I_CREATE_BACKUP"><![CDATA[Create Backup]]></text>
+    <text id="JS_START_WAIT"><![CDATA[<blink>Please wait...</blink>]]></text>
+    <text id="BACKUP_TYPE_UPDATE"><![CDATA[Backup files before updating CMS to new version]]></text>
+    <text id="BACKUP_TYPE_FULL"><![CDATA[*.*]]></text>
+    <text id="BACKUP_TYPE_MEDIUM"><![CDATA[Backup index.php, */*.xml, *.swf, style.css, .htaccess, xml/*.*, modules/*/*.*, admin/*(-admin/libs/sfTemplating -admin/libs/Zend)]]></text>
+    <text id="BACKUP_TYPE_XML"><![CDATA[*.xml]]></text>
+    <text id="BUTTON_START"><![CDATA[Start]]></text>
+    <text id="BUTTON_CANCEL"><![CDATA[Cancel]]></text>
+    <text id="BUTTON_CLOSE"><![CDATA[Close]]></text>
+    <text id="STEP_TITLE_COPYFILE"><![CDATA[Copying files to temporary folder...]]></text>
+    <text id="STEP_TITLE_COPYFILE_OK"><![CDATA[Copying files to temporary folder... completed. Processed %dirs% folders and %files% files.]]></text>
+    <text id="STEP_TITLE_COPYFILE_ERROR"><![CDATA[Copy files to temporary folder... Error: %error%]]></text>
+    <text id="STEP_TITLE_MAKE_ZIP"><![CDATA[Creating zip archive...]]></text>
+    <text id="STEP_TITLE_MAKE_ZIP_OK"><![CDATA[Creating zip archive... completed: filesize is %size% b.]]></text>
+    <text id="STEP_TITLE_MAKE_ZIP_ERROR"><![CDATA[Creating zip archive... Error]]></text>
+    <text id="STEP_TITLE_MAKE_ZIP_WARNING"><![CDATA[Creating zip archive... skipped. Class ZipArchive not found]]></text>
+    <text id="STEP_TITLE_FINISH"><![CDATA[Backup process completed.]]></text>
+    <text id="STEP_TITLE_FINISH_ZIP"><![CDATA[<br/><div>Backup process completed.<br/>Use this link to download the archive: <a href="%url%">%zipname%</a></div><br/>]]></text>
+    <text id="STEP_TITLE_FINISH_DIR"><![CDATA[<br/><div>Backup process completed. However, you don't have <b>ZipArchive</b> so you can Download backup files via FTP. They are located in folder <b>%path%</b></div><br/>]]></text>
+    <text id="E_FILE_NOT_EXISTS"><![CDATA[File %file% not found<br>]]></text>
+    <text id="E_CHECK_EXISTS_CLASS"><![CDATA[Please check if following updater files exist:]]></text>
+    <text id="E_CHECK_EXISTS_FILES"><![CDATA[Please check if following file(s) exist and are writable: ]]></text>
+    <text id="E_PRECHECK_SAFE_MODE"><![CDATA[We have detected that PHP's Safe Mode is enabled on your server. We recommend turning it off for our software to work normally. You can disable safe mode in your hosting control panel or by editing a php.ini file.]]></text>	
+</language>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+
+	<item name="CONFIG_RESOURSE_PATH"><![CDATA[xml/settings.xml]]></item>
+	
+	<item name="CONTENT_RESOURSE_PATH"><![CDATA[xml/content.xml]]></item>
+
+	<item name="ASSETS_RESOURSE_PATH"><![CDATA[xml/assets.xml]]></item>
+	
+	<item name="STRUCTURE_RESOURSE_PATH"><![CDATA[xml/structure.xml]]></item>
+
+	<item name="FONTS_RESOURSE_PATH"><![CDATA[xml/fonts.xml]]></item>
+	
+	<item name="FONTS_FOLDER"><![CDATA[fonts]]></item>
+
+	<item name="SNAPSHOT_WIDTH"><![CDATA[205]]></item>
+
+	<item name="SNAPSHOT_CREATION_DELAY"><![CDATA[2]]></item>
+
+	<item name="CLIENT_VERSION"><![CDATA[1.3.0]]></item>
+
+</configuration>

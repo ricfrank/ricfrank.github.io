@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motoFonts>
+  <font enabled="true" isGoogle="true" regular="true" bold="true" italic="true" boldItalic="true">
+    <name><![CDATA[Arvo]]></name>
+    <file>Arvo.swf</file>
+    <characters>Latin</characters>
+  </font>
+  <font enabled="true" isGoogle="true" regular="true" bold="true" italic="true" boldItalic="true">
+    <name><![CDATA[Open Sans]]></name>
+    <file>OpenSans.swf</file>
+    <characters>Cyrillic, Cyrillic-extended, Greek, Greek-extended, Latin, Latin-extended, Vietnamese</characters>
+  </font>
+  <font enabled="true" isGoogle="true" regular="true" bold="true" italic="false" boldItalic="false">
+    <name><![CDATA[Oswald]]></name>
+    <file>Oswald.swf</file>
+    <characters>Latin, Latin-extended</characters>
+  </font>
+  <font enabled="true" isGoogle="true" regular="true" bold="true" italic="false" boldItalic="false">
+    <name><![CDATA[Play]]></name>
+    <file>Play.swf</file>
+    <characters>Cyrillic, Cyrillic-extended, Greek, Greek-extended, Latin, Latin-extended</characters>
+  </font>
+</motoFonts>

@@ -1,0 +1,15 @@
+/* CSS Document */
+html {
+	overflow:hidden;
+	height:100%;
+}
+body {
+	margin:0;
+	padding:0;
+	background:#000000;
+	font-family:Tahoma;
+	color:#ffffff;
+	font-size:10px;
+	text-align:center;
+	height:100%;
+}

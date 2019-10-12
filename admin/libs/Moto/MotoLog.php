@@ -1,0 +1,2 @@
+<?php
+ require_once 'Zend/Log.php'; class MotoLog extends Zend_Log { private static $_instance; public function __construct(Zend_Log_Writer_Abstract $writer = null) { if (isset(self::$_instance)) { require_once 'Zend/Log/Exception.php'; throw new Zend_Log_Exception('Only one MotoLog instance could be created'); } parent::__construct(); } public static function getInstance() { if (!isset(self::$_instance)) { self::$_instance = new self; } return self::$_instance; } }

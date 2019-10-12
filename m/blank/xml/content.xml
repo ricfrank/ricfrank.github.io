@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motoContent>
+	<website width="480" height="800">
+		<objects/>
+		<slots/>
+		<modules/>
+		<contentHolders/>
+		<properties>
+			<item propertyType="10"><![CDATA[]]></item>
+			<item propertyType="11"><![CDATA[<style background="solid 0x4D000000 0x00000000 -90 images/arrow_left_up.png center center no-repeat" border="0xFF000000 0 0 0 0 0 0 0 0" padding="0 25 0 25"/>]]></item>
+			<item propertyType="20"><![CDATA[]]></item>
+			<item propertyType="21"><![CDATA[<style background="solid 0x4D000000 0x00000000 -90 images/arrow_right_up.png center center no-repeat" border="0xFF000000 0 0 0 0 0 0 0 0" padding="0 25 0 25"/>]]></item>
+			<item propertyType="30"><![CDATA[]]></item>
+			<item propertyType="31"><![CDATA[fade]]></item>
+			<item propertyType="32"><![CDATA[fade]]></item>
+			<item propertyType="33"><![CDATA[]]></item>
+			<item propertyType="99"><![CDATA[]]></item>
+			<item propertyType="9"><![CDATA[onlyHover]]></item>
+			<item propertyType="110"><![CDATA[]]></item>
+			<item propertyType="111"><![CDATA[<style background="none 0x00000000 0x00000000 -90  left top no-repeat" border="0xFF000000 0 0 0 0 0 0 0 0" padding="0 10 0 10"/>]]></item>
+			<item propertyType="120"><![CDATA[]]></item>
+			<item propertyType="121"><![CDATA[<style background="none 0x33000000 0x00000000 -90  left top no-repeat" border="0xFF000000 0 0 0 0 0 0 0 0" padding="0 10 0 10"/>]]></item>
+			<item propertyType="130"><![CDATA[]]></item>
+			<item propertyType="131"><![CDATA[images/next_arrow_big.png]]></item>
+			<item propertyType="132"><![CDATA[images/next_arrow_big.png]]></item>
+			<item propertyType="140"><![CDATA[]]></item>
+			<item propertyType="141"><![CDATA[images/prev_arrow_big.png]]></item>
+			<item propertyType="142"><![CDATA[images/prev_arrow_big.png]]></item>
+			<item propertyType="25"><![CDATA[]]></item>
+			<item propertyType="26"><![CDATA[]]></item>
+			<item propertyType="27"><![CDATA[]]></item>
+			<item propertyType="28"><![CDATA[]]></item>
+			<item propertyType="29"><![CDATA[]]></item>
+			<item propertyType="40"><![CDATA[]]></item>
+			<item propertyType="41"><![CDATA[]]></item>
+			<item propertyType="42"><![CDATA[<style background="none 0x00000000 0x00000000 -90  left top no-repeat" border="0xFF000000 0 0 0 0 0 0 0 0" padding="0 10 0 10"/>]]></item>
+			<item propertyType="43"><![CDATA[]]></item>
+			<item propertyType="44"><![CDATA[<style background="none 0x33000000 0x00000000 -90  left top no-repeat" border="0xFF000000 0 0 0 0 0 0 0 0" padding="0 0 0 0"/>]]></item>
+			<item propertyType="45"><![CDATA[]]></item>
+			<item propertyType="46"><![CDATA[images/prev_arrow_big.png]]></item>
+			<item propertyType="47"><![CDATA[images/prev_arrow_big.png]]></item>
+			<item propertyType="48"><![CDATA[]]></item>
+			<item propertyType="49"><![CDATA[images/next_arrow_big.png]]></item>
+			<item propertyType="52"><![CDATA[0x1B1B1B]]></item>
+			<item propertyType="51"><![CDATA[80]]></item>
+			<item propertyType="50"><![CDATA[images/next_arrow_big.png]]></item>
+			<item propertyType="53"><![CDATA[onhover]]></item>
+			<item propertyType="54"><![CDATA[]]></item>
+			<item propertyType="55"><![CDATA[true]]></item>
+			<item propertyType="56"><![CDATA[images/lightbox_close.png]]></item>
+			<item propertyType="57"><![CDATA[]]></item>
+			<item propertyType="58"><![CDATA[100]]></item>
+			<item propertyType="59"><![CDATA[fill]]></item>
+			<item propertyType="360"><![CDATA[]]></item>
+			<item propertyType="366"><![CDATA[]]></item>
+			<item propertyType="367"><![CDATA[<style background="none 0x00000000 0x00000000 -90  left top no-repeat" border="0xFFFFFFFF 1 1 1 1 0 0 0 0" padding="0 0 0 0"/>]]></item>
+			<item propertyType="368"><![CDATA[]]></item>
+			<item propertyType="369"><![CDATA[images/lightbox_thumbnails_prev.png]]></item>
+			<item propertyType="370"><![CDATA[images/lightbox_thumbnails_next.png]]></item>
+			<item propertyType="371"><![CDATA[60]]></item>
+			<item propertyType="372"><![CDATA[images/lightbox_show_thumbnails.png]]></item>
+			<item propertyType="373"><![CDATA[]]></item>
+			<item propertyType="375"><![CDATA[]]></item>
+			<item propertyType="380"><![CDATA[]]></item>
+			<item propertyType="60"><![CDATA[fade]]></item>
+			<item propertyType="61"><![CDATA[fade]]></item>
+</properties>
+		<elements>
+			<loginForm>
+				<properties>
+					<item propertyType="1" embedFonts="false"><![CDATA[<font face="Tahoma" size="11" color="#000000">Password:</font>]]></item>
+					<item propertyType="2" embedFonts="false"><![CDATA[<font face="Tahoma" size="11" color="#B11B1B">Wrong password.</font>]]></item>
+					<item propertyType="3" embedFonts="false"><![CDATA[<font face="Tahoma" size="11" color="#FFFFFF">Enter</font>]]></item>
+					<item propertyType="4"><![CDATA[19]]></item>
+					<item propertyType="5"><![CDATA[10]]></item>
+					<item propertyType="6"><![CDATA[300]]></item>
+					<item propertyType="7"><![CDATA[0x838383]]></item>
+					<item propertyType="8"><![CDATA[0x5A5A5A]]></item>
+					<item propertyType="9"><![CDATA[0x000000]]></item>
+					<item propertyType="10"><![CDATA[0x4E4E4E]]></item>
+					<item propertyType="11" embedFonts="false"><![CDATA[<font face="Tahoma" size="11" color="#242424">******</font>]]></item>
+					<item propertyType="12"><![CDATA[0xFFFFFF]]></item>
+					<item propertyType="13"><![CDATA[0xa9a9a9]]></item>
+					<item propertyType="14"><![CDATA[true]]></item>
+					<item propertyType="15"><![CDATA[0xd6d5d3]]></item>
+					<item propertyType="16"><![CDATA[0xA5A4A3]]></item>
+					<item propertyType="17"><![CDATA[0x000000]]></item>
+					<item propertyType="18"><![CDATA[80]]></item>
+					<item propertyType="19"><![CDATA[5]]></item>
+					<item propertyType="20"><![CDATA[5]]></item>
+				</properties>
+			</loginForm>
+		</elements>
+		<style background="none 0xFF000000 0xFF2F2F2F -90  center center repeat" border="0xFF000000 0 0 0 0 0 0 0 0" borderEnabled="false" paddingEnabled="false"/>
+	</website>
+	<layouts>
+		<layout layoutType="1">
+			<objects/>
+			<slots/>
+			<modules/>
+			<contentHolders/>
+		</layout>
+		<layout layoutType="2">
+			<objects/>
+			<slots/>
+			<modules/>
+			<contentHolders/>
+		</layout>
+	</layouts>
+	<pages>
+		<page id="1" parent="0" order="0" linkable="true" pageType="2" height="800" timestamp="1346255563">
+			<objects/>
+			<slots/>
+			<modules/>
+			<contentHolders/>
+			<properties/>
+			<name><![CDATA[Home]]></name>
+			<title><![CDATA[Home]]></title>
+			<url><![CDATA[home]]></url>
+		</page>
+		<page id="2" parent="0" order="1" linkable="true" pageType="1" height="800" timestamp="1348658128">
+			<objects>
+				<object id="1" holder="2" x="0" y="80" width="480" height="97" type="htmlText" embedFonts="false">
+					<style border="0xFF000000 0 0 0 0 0 0 0 0"/>
+					<data><![CDATA[<P ALIGN="CENTER"><FONT FACE="Arial" SIZE="24" COLOR="#000000"><B>Not Found</B></FONT></P><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="20" COLOR="#000000">the requested url was not found on this server</FONT></P>]]></data>
+				</object>
+			</objects>
+			<slots/>
+			<modules/>
+			<contentHolders/>
+			<properties/>
+			<name><![CDATA[404]]></name>
+			<title><![CDATA[404]]></title>
+			<url><![CDATA[404]]></url>
+		</page>
+	</pages>
+	<popups/>
+</motoContent>

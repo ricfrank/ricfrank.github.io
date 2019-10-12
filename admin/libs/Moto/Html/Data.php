@@ -1,0 +1,2 @@
+<?php
+class Moto_Html_Data { protected $_data = array(); protected $_default = null; function __construct($data = null) { $this->setFromArray($data); } function __set($name, $value) { $this->_data[$name] = $value; } function __isset($name) { return (isset($this->_data[$name])); } function __get($name) { return (isset($this->_data[$name]) ? $this->_data[$name] : $this->_default); } function setFromArray(array $data) { $this->_data = $data; return $this; } function toArray() { return $this->_data; } }

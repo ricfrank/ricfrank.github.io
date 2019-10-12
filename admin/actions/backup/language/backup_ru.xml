@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <text id="E_UPDATECMS"><![CDATA[Ошибка при создании резервной копии]]></text>
+    <text id="I_WINDOW_TITLE"><![CDATA[Резервное копирование CMS]]></text>
+    <text id="I_TITLE"><![CDATA[Система резервного копирования CMS]]></text>
+    <text id="I_HEADER"><![CDATA[Добро пожаловать в Программу резервного копирования CMS. Мастер будет помогать Вам в процессе создания копии.]]></text>
+    <text id="I_FOOTER"><![CDATA[Пожалуйста, свяжитесь с Вашим хостинг-провайдером, если нужно настроить сервер. Для дополнительной информации, пожалуйста, пишите на <a href="mailto:support@cms-guide.com">support@cms-guide.com</a>]]></text>
+    <text id="I_STEP_INIT"><![CDATA[<b>Запуск инструмента резервного копирования.</b><br/>]]></text>
+    <text id="E_PRECHECK_FAIL"><![CDATA[<b>Сбой предварительной проверки. </b><br/>Пожалуйста, исправьте все ошибки и запустите инструмент снова. ]]></text>
+    <text id="N_PRECHECK_NO_ZIP"><![CDATA[<b>ZipArchive</b> не найден. Файлы резервной копии не будут архивированы, но вы сможете загрузить их через FTP.<br>]]></text>
+    <text id="E_BACKUP_STORAGE_NOT_EXISTS"><![CDATA[<b>Служба резервного копирования</b>: Папка %storagePath% не найдена <br/> Пожалуйста, создайте ее и установите для нее права записи (0777) ]]></text>
+    <text id="E_BACKUP_STORAGE_NOT_WRITEBLE"><![CDATA[<b>Служба резервного копирования</b>: Папка %storagePath% не доступна для записи. Пожалуйста, установите права записи для этой папки.<br/>]]></text>
+    <text id="E_DIR_NOT_EXISTS"><![CDATA[Папка %folder% не найдена<br>]]></text>
+    <text id="AUTHORIZATION_FAILED"><![CDATA[Сбой авторизации панели управления.<br/>Пожалуйста, войдите в <a href="%MOTO_ADMIN_URL%" target="_blank">панель управления</a>]]></text>
+    <text id="I_CREATE_BACKUP"><![CDATA[Создать Резервную копию]]></text>
+    <text id="JS_START_WAIT"><![CDATA[<blink>Пожалуйста, ожидайте...</blink>]]></text>
+    <text id="BACKUP_TYPE_UPDATE"><![CDATA[Сделать резервную копию файлов перед обновлением CMS.]]></text>
+    <text id="BACKUP_TYPE_FULL"><![CDATA[*.*]]></text>
+    <text id="BACKUP_TYPE_MEDIUM"><![CDATA[Сделать резервную копию index.php, */*.xml, *.swf, style.css, .htaccess, xml/*.*, modules/*/*.*, admin/*(-admin/libs/sfTemplating -admin/libs/Zend) ]]></text>
+    <text id="BACKUP_TYPE_XML"><![CDATA[*.xml]]></text>
+    <text id="BUTTON_START"><![CDATA[Старт]]></text>
+    <text id="BUTTON_CANCEL"><![CDATA[Отмена]]></text>
+    <text id="BUTTON_CLOSE"><![CDATA[Закрыть]]></text>
+    <text id="STEP_TITLE_COPYFILE"><![CDATA[Копирование файлов во временную папку...]]></text>
+    <text id="STEP_TITLE_COPYFILE_OK"><![CDATA[Копирование файлов во временную папку... завершено. Обработано %dirs% папок и %files% файлов.]]></text>
+    <text id="STEP_TITLE_COPYFILE_ERROR"><![CDATA[Копировать файлы во временную папку... Ошибка: %error% ]]></text>
+    <text id="STEP_TITLE_MAKE_ZIP"><![CDATA[Создание zip архива...]]></text>
+    <text id="STEP_TITLE_MAKE_ZIP_OK"><![CDATA[Создание zip архива... завершено: размер файла %size% б. ]]></text>
+    <text id="STEP_TITLE_MAKE_ZIP_ERROR"><![CDATA[Создание zip архива... Ошибка]]></text>
+    <text id="STEP_TITLE_MAKE_ZIP_WARNING"><![CDATA[Создание zip архива... пропущено. Класс ZipArchive не найден]]></text>
+    <text id="STEP_TITLE_FINISH"><![CDATA[Создание резервной копии завершено.]]></text>
+    <text id="STEP_TITLE_FINISH_ZIP"><![CDATA[<br/><div>Создание резервной копии завершено.<br/>Используйте данную ссылку для скачивания архива: <a href="%url%">%zipname%</a></div><br/>]]></text>
+    <text id="STEP_TITLE_FINISH_DIR"><![CDATA[<br/><div>Создание резервной копии завершено. Однако, у Вас нет <b>ZipArchive</b>, поэтому Вы можете скачать файлы резервной копии через FTP. Они находятся в папке <b>%path%</b></div><br/>]]></text>
+    <text id="E_FILE_NOT_EXISTS"><![CDATA[Файл %file% не найден<br>]]></text>
+    <text id="E_CHECK_EXISTS_CLASS"><![CDATA[Пожалуйста, проверьте, существует ли следующий файл обновления:]]></text>
+    <text id="E_CHECK_EXISTS_FILES"><![CDATA[Пожалуйста, проверьте, существует и доступен ли для записи следующий файл: ]]></text>
+	<text id="E_PRECHECK_SAFE_MODE"><![CDATA[Система обнаружила, что на Вашем сервере включен Безопасный Режим PHP. Мы рекомендуем отключить его для нормальной работы нашего программного обеспечения. Вы можете отключить Безопасный Режим в панели управления хостингом, либо отредактировав файл php.ini]]></text>
+</language>

@@ -1,0 +1,2 @@
+<?php
+ class MotoLogFilter implements Zend_Log_Filter_Interface { public function accept($event) { if (is_array($event) && !empty($event['message'])) { if (preg_match('/Function (mcrypt_|mdecrypt_)(.*)is deprecated/u', $event['message'])) { return false; } } return true; } }

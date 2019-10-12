@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contactFormStructure>
+	<formItems>
+		<item id="1" type="text" x="0" y="10" width="200" height="24" mailOrder="1" tabOrder="1">
+			<label><![CDATA[name]]></label>
+			<textToShow><![CDATA[Name]]></textToShow>
+		</item>
+		<item id="2" type="text" x="0" y="49" width="200" height="24" mailOrder="2" tabOrder="2">
+			<label><![CDATA[mail]]></label>
+			<textToShow><![CDATA[Mail]]></textToShow>
+			<validator>EmailValidator</validator>
+		</item>
+		<item id="3" type="select" x="0" y="89" width="200" height="24" mailOrder="3" tabOrder="3">
+			<label><![CDATA[age]]></label>
+			<textToShow><![CDATA[Age]]></textToShow>
+			<data><![CDATA[16%0D17%0D18%0D19%0D20%0D21%0D22%0D23%0D24%0D25]]></data>
+		</item>
+		<item id="4" type="checkBox" x="0" y="129" width="200" height="24" mailOrder="4" tabOrder="4">
+			<label><![CDATA[confirm]]></label>
+			<defaultValue><![CDATA[true]]></defaultValue>
+			<textToShow><![CDATA[Sample text]]></textToShow>
+			<textPosition>right</textPosition>
+		</item>
+		<item id="5" type="radioButton" x="0" y="166" width="200" height="24" mailOrder="5" tabOrder="5">
+			<label><![CDATA[RadioButtonGroup]]></label>
+			<defaultValue><![CDATA[true]]></defaultValue>
+			<textToShow><![CDATA[Yes]]></textToShow>
+			<textPosition>right</textPosition>
+		</item>
+		<item id="6" type="radioButton" x="0" y="198" width="200" height="24" mailOrder="5" tabOrder="5">
+			<label><![CDATA[RadioButtonGroup]]></label>
+			<defaultValue><![CDATA[false]]></defaultValue>
+			<textToShow><![CDATA[No]]></textToShow>
+			<textPosition>right</textPosition>
+		</item>
+	</formItems>
+	<formControls>
+		<item type="submitButton" x="131" y="275" width="70" height="24"/>
+		<item type="resetButton" x="52" y="275" width="70" height="24"/>
+		<item type="statusMessage" x="0" y="310" width="200" height="40"/>
+	</formControls>
+</contactFormStructure>

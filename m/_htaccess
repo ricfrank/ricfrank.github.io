@@ -1,0 +1,22 @@
+Options +FollowSymLinks +ExecCGI -Indexes
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  ## uncomment the following line, if you are having trouble
+  ## getting no_script_name to work
+  #RewriteBase /
+
+  ## remove trailing slash
+  #RewriteCond %{REQUEST_FILENAME} !-d
+  #RewriteCond %{REQUEST_URI} ^(.+)/$
+  #RewriteRule ^(.+)/$  $1 [R=301,L]
+
+  ## turn off index.html, it is for offline mode
+  RewriteRule ^.*index.html$ index.php [QSA]
+
+  ## no, so we redirect to our front web controller
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^(.*)$ index.php [QSA,L]
+</IfModule>

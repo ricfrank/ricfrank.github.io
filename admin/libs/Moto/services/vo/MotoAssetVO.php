@@ -1,0 +1,2 @@
+<?php
+class MotoAssetVO { public $url; public $type; public $typeId; public $preload; public function saveDomElement(DOMNode $parent) { $parent->setAttribute('type', $this->type); $parent->setAttribute('typeId', $this->typeId); $parent->appendChild($parent->ownerDocument->createCDATASection($this->url)); return $parent; } }

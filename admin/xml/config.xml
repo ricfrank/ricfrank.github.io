@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<item name="language"><![CDATA[it]]></item>
+	<item name="welcomeScreen"><![CDATA[false]]></item>
+	<item name="extendedRightClickMenu"><![CDATA[false]]></item>
+	<item name="checkForUpdates"><![CDATA[false]]></item>
+	<item name="previewWebsiteSameWindow"><![CDATA[false]]></item>
+	<item name="previewWebsiteFromStartPage"><![CDATA[true]]></item>
+</configuration>

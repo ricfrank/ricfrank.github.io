@@ -1,0 +1,2 @@
+<?php
+class Moto_Html_Render_LoginForm extends Moto_Html_Render_Abstract { function proccess($obj, $parent = null) { $html = ''; $data = array( 'widget.properties' => Moto_Html_Util::implodeArray( $obj->properties ), ); $template = $obj->getTemplate('main'); $html .= $this->_render($template, $data); return $html; } }

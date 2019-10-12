@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<googlemap>
+	<configuration>
+		<option id="iconID">
+			<value>1</value>
+		</option>
+		<option id="latitudeID">
+			<value>2</value>
+		</option>
+		<option id="longitudeID">
+			<value>3</value>
+		</option>
+		<option id="titleID">
+			<value>4</value>
+		</option>
+		<option id="descriptionID">
+			<value>5</value>
+		</option>
+	</configuration>
+	<structure>
+		<properties>
+			<property id="1" type="image" keyName="icon">
+				<name>Marker Icon</name>
+			</property>
+			<property id="2" type="plainText" keyName="latitude">
+				<name>Latitude</name>
+			</property>
+			<property id="3" type="plainText" keyName="longitude">
+				<name>Longitude</name>
+			</property>
+			<property id="4" type="htmlText" keyName="title">
+				<name>Title</name>
+			</property>
+			<property id="5" type="htmlText" keyName="description">
+				<name>Description</name>
+			</property>
+		</properties>
+		<template/>
+	</structure>
+	<data><item id="1" order="1"><properties><item propertyType="1"><![CDATA[]]></item><item propertyType="2"><![CDATA[40.7143528]]></item><item propertyType="3"><![CDATA[-74.0059731]]></item><item propertyType="4" embedFonts="false" antiAliasType="advanced"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Tahoma" SIZE="11" COLOR="#1B1B1B" LETTERSPACING="0" KERNING="0">Office</FONT></P></TEXTFORMAT>]]></item><item propertyType="5" embedFonts="false" antiAliasType="advanced"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Tahoma" SIZE="11" COLOR="#1B1B1B" LETTERSPACING="0" KERNING="0">NY</FONT></P></TEXTFORMAT>]]></item></properties></item></data>
+</googlemap>

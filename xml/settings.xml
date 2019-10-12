@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motoConfig>
+	<configuration>
+		<option name="startPage" description=""><![CDATA[4]]></option>
+		<option name="websiteTitlePrefix" description=""><![CDATA[Tennis Match]]></option>
+		<option name="showWarnings" description=""><![CDATA[false]]></option>
+		<option name="googleAnalyticsEnabled" description=""><![CDATA[false]]></option>
+		<option name="googleAnalyticsAccount" description=""><![CDATA[]]></option>
+		<option name="googleWebmasterToolsEnabled" description=""><![CDATA[false]]></option>
+		<option name="googleWebmasterToolsMetaTag" description=""><![CDATA[]]></option>
+		<option name="googleWebmasterToolsFileName" description=""><![CDATA[]]></option>
+		<option name="websiteIcon" description=""><![CDATA[images/favicon.jpg]]></option>
+		<option name="underConstruction" description=""><![CDATA[false]]></option>
+		<option name="underConstructionTheme" description=""><![CDATA[]]></option>
+		<option name="underConstructionMessage" description=""><![CDATA[]]></option>
+		<option name="websiteProtectionSessionExpireTime" description=""><![CDATA[3600]]></option>
+		<option name="websiteProtectionEnabled" description=""><![CDATA[false]]></option>
+		<option name="websiteProtectionKey" description=""><![CDATA[]]></option>
+		<option name="javascriptDisabledMessage" description=""><![CDATA[Your browser does not support JavaScript.]]></option>
+		<option name="websitePreloader" description=""><![CDATA[images/preloader.gif]]></option>
+		<option name="contentPreloader" description=""><![CDATA[images/preloader.gif]]></option>
+		<option name="loadEncodedData" description=""><![CDATA[false]]></option>
+		<option name="cacheEnabled" description=""><![CDATA[true]]></option>
+		<option name="redirectToMobile" description=""><![CDATA[false]]></option>
+	</configuration>
+</motoConfig>

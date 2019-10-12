@@ -1,0 +1,2 @@
+<?php
+ require_once 'MotoLog.php'; class MotoError { public static function registerHandlers() { set_error_handler(array(new self, 'errorHandler')); } public function errorHandler($code, $message, $file, $line) { MotoLog::getInstance()->err("[{$code}] {$message}\n\tin file {$file}:{$line}"); return true; } }

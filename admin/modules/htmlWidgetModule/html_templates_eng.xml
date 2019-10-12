@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+<!-- blank html -->
+	<template icon="icons/html_icon.png">
+		<name><![CDATA[Blank HTML]]></name>
+		<description><![CDATA[Use this template to add custom HTML code. You can use javascript, CSS styles, and any standard HTML tags.]]></description>
+		<text><![CDATA[Use this template to add custom HTML code. You can use javascript, CSS styles, and any standard HTML tags.]]></text>
+		<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+		<!-- paste code here -->
+	</body></html>]]></code>
+	</template>
+<!-- Google Applications -->
+	<group name="Google Applications" icon="icons/google_icon.png">
+		<template icon="icons/google_document.png">
+			<name><![CDATA[Google Document]]></name>
+			<description><![CDATA[Create and share documents on the web and access them from any computer or smart phone. The familiar desktop feel makes collaborative editing easy. ]]></description>
+			<text><![CDATA[1. Open <a href="https://docs.google.com/" target="_blank"><b>documents</b></a><br/>2. Open document you want to add.<br/>3. At the top menu press File -> Publish to the web -> Start publishing -> OK.<br/>4. Copy embed code and paste to the "HTML Code" section.<br/>5. Add width="100%" height="100%" inside iframe tag.<br/>]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/google_spreadsheet.png">
+			<name><![CDATA[Google Spreadsheet]]></name>
+			<description><![CDATA[Create and share spreadsheets online. Google spreadsheets makes it easy to track budgets, run financial calculations, track data and more.]]></description>
+			<text><![CDATA[1. Open <a href="https://docs.google.com/" target="_blank"><b>documents</b></a><br/>2. Open document you want to add.<br/>3. At the top menu press File -> Publish to the web -> Start publishing -> OK.<br/>4. Under "Get a link to the published data" press the button and select "Html to embed in a page".<br/>5. Copy embed code and paste to the "HTML Code" section.<br/>6. Change width="100%" height="100%" inside iframe tag.<br/>]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/google_calendar.png">
+			<name><![CDATA[Google Calendar]]></name>
+			<description><![CDATA[Organizing your schedule shouldn't be a burden. With Google Calendar, it's easy to keep track of life's important events all in one place.]]></description>
+			<text><![CDATA[1. Open Google Calendar.<br/>2. Near the calendar push the button and select "Share this Calendar".<br/>
+3. Copy embed code and paste to the "HTML Code" section.<br/>4. Change width="100%" height="100%" inside iframe tag.<br/>]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/picasa_icon.png" checked="-1">
+			<name><![CDATA[Picasa Slideshow]]></name>
+			<description><![CDATA[Fast and easy photo sharing from Google. Share with friends and family, or explore public photos.]]></description>
+			<text><![CDATA[1. Open album in your Picasa account.<br/>2. Press "Link to this album" at the right.<br/>3. Press "Embed Slideshow".<br/>4. Select slideshow size.<br/>5. Copy code and paste to the "HTML Code" section.<br/>6. Resize module to fit selected size.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/google_map.png">
+			<name><![CDATA[Google Maps]]></name>
+			<description><![CDATA[Find local businesses, view maps and get driving directions in Google Maps]]></description>
+			<text><![CDATA[1. Open <a href="http://maps.google.com" target="_blank"><b>Maps</b></a> and find a place you want to display.<br/>2. Press "Link" at the top left corner.<br/>3. Press "Customize and preview embedded map".<br/>4. Select map size.<br/>5. Copy code and paste to the "HTML Code" section.<br/>6. Change width="100%" height="100%" inside iframe tag.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/youtube_icon.png">
+			<name><![CDATA[YouTube]]></name>
+			<description><![CDATA[YouTube is a place to discover, watch, upload and share videos.]]></description>
+			<text><![CDATA[1. Open <a href="http://www.youtube.com/" target="_blank"><b>YouTube</b></a> and find the video you want to add.<br/>2. Press "Share" button below the video and press "Embed" button afterwards.<br/>3. Select video size.<br/>4. Copy code and paste to the "HTML Code" section.<br/>5. Change width="100%" height="100%" inside iframe tag.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+	</group>
+
+<!-- Twitter -->
+	<group name="Twitter" icon="icons/twitter_icon.png">
+		<template useIFrame="true">
+			<name><![CDATA[Profile Widget]]></name>
+			<description><![CDATA[Display your most recent Twitter updates on any webpage.]]></description>
+			<text><![CDATA[1. Open <a href="https://twitter.com/settings/widgets/new/user" target="_blank"><b>Profile Widget</b></a>.<br/>2. Fill in widget settings and press "Create widget".<br/>3. Copy code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Search Widget]]></name>
+			<description><![CDATA[Displays search results in real time! Ideal for live events, broadcastings, conferences, TV Shows, or even just keeping up with the news.]]></description>
+			<text><![CDATA[1. Open <a href="https://twitter.com/settings/widgets/new/search" target="_blank"><b>Search Widget</b></a>.<br/>2. Type in "Search Query".<br/>3. Fill in widget settings and press "Create widget"<br/>4. Copy code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Favorites Widget]]></name>
+			<description><![CDATA[Show off your favorite tweets! Also in real time, this widget will pull in the tweets you've starred as favorites. It's great for moderation.]]></description>
+			<text><![CDATA[1. Open <a href="https://twitter.com/settings/widgets/new/favorites" target="_blank"><b>Favorites Widget</b></a>.<br/>2. Fill in widget settings and press "Create widget"<br/>3. Copy code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[List Widget]]></name>
+			<description><![CDATA[Put your favorite tweeps into a list! Then show 'em off in a widget. Also great for moderation.]]></description>
+			<text><![CDATA[1. Open <a href="https://twitter.com/settings/widgets/new/list" target="_blank"><b>List Widget</b></a>.<br/>2. Fill in widget settings and press "Create widget"<br/>3. Copy code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Share button]]></name>
+			<description><![CDATA[Add buttons to your website to help your visitors share content and connect with you on Twitter.]]></description>
+			<text><![CDATA[1. Open <a href="https://twitter.com/about/resources/buttons#tweet" target="_blank"><b>Share buttons</b></a>.<br/>2. Fill in button properties.<br />3. Copy code and paste to the "HTML Code" section.<br/>]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Follow button]]></name>
+			<description><![CDATA[Promote your Twitter account and make it easy for people to follow you directly from your website.]]></description>
+			<text><![CDATA[1. Open <a href="https://twitter.com/about/resources/buttons#follow" target="_blank"><b>Follow buttons</b></a>.<br/>2. Fill in button properties.<br />3. Copy code and paste to the "HTML Code" section.<br/>]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Hashtag button]]></name>
+			<description><![CDATA[Add buttons to your website to help your visitors share content and connect with you on Twitter.]]></description>
+			<text><![CDATA[1. Open <a href="https://twitter.com/about/resources/buttons#hashtag" target="_blank"><b>Hashtag buttons</b></a>.<br/>2. Fill in button properties.<br />3. Copy code and paste to the "HTML Code" section.<br/>]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Mention button]]></name>
+			<description><![CDATA[Add buttons to your website to help your visitors share content and connect with you on Twitter.]]></description>
+			<text><![CDATA[1. Open <a href="https://twitter.com/about/resources/buttons#mention" target="_blank"><b>Mention buttons</b></a>.<br/>2. Fill in button properties.<br />3. Copy code and paste to the "HTML Code" section.<br/>]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		
+	</group>
+<!-- Dashboard -->
+	<group name="Comments" icon="icons/dashboard_icon.png">
+		<template icon="icons/intensedebate_icon.png" useIFrame="true">
+			<name><![CDATA[IntenseDebate]]></name>
+			<description><![CDATA[IntenseDebate's comment system enhances and encourages conversation on your blog or website.]]></description>
+			<text><![CDATA[1. Open <a href="http://www.intensedebate.com/" target="_blank"><b>IntenseDebate</b></a>.<br/>2. Signup and add your website.<br/>3. Get verification email and follow installation instructions.<br/>4. Copy code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template icon="icons/disqus_icon.png" useIFrame="true">
+			<name><![CDATA[Disqus]]></name>
+			<description><![CDATA[Disqus is a global comment system that improves discussion on websites and connects conversations across the web.]]></description>
+			<text><![CDATA[1. Open <a href="http://disqus.com/" target="_blank"><b>Disqus</b></a>.<br/>2. Signup and add your website.<br/>3. Get verification email and follow installation instructions.<br/>4. Select "Universal code".<br/>5. Copy embed code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+	</group>
+<!-- Facebook -->
+	<group name="Facebook" icon="icons/facebook_icon.png">
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Like Button]]></name>
+			<description><![CDATA[The Like button lets users share pages from your site back to their Facebook profile with one click.]]></description>
+			<text><![CDATA[1. Open <a href="http://developers.facebook.com/docs/reference/plugins/like/" target="_blank"><b>Like button page</b></a>.<br/>2. Type url to like and customize button style.<br/>3. Press "Get code".<br/>4. Copy code from both block and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Comments]]></name>
+			<description><![CDATA[The Comments plugin lets users comment on any piece of content on your site.]]></description>
+			<text><![CDATA[1. Open <a href="http://developers.facebook.com/docs/reference/plugins/comments/" target="_blank"><b>Comments</b></a>.<br/>2. Type in URL to comment on and customize Comments Box.<br/>3. Press "Get code".<br/>4. Copy code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Activity Feed]]></name>
+			<description><![CDATA[The Activity Feed plugin shows users what their friends are doing on your site through likes and comments.]]></description>
+			<text><![CDATA[1. Open <a href="http://developers.facebook.com/docs/reference/plugins/activity/" target="_blank"><b>Activity Feed</b></a>.<br/>2. Type in Domain and customize plugin.<br/>3. Press "Get code".<br/>4. Copy "iframe" code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Recommendations]]></name>
+			<description><![CDATA[The Recommendations plugin gives users personalized suggestions for pages on your site they might like.]]></description>
+			<text><![CDATA[1. Open <a href="http://developers.facebook.com/docs/reference/plugins/recommendations/" target="_blank"><b>Recommendations</b></a>.<br/>2. Type in Domain and customize plugin.<br/>3. Press "Get code".<br/>4. Copy "iframe" code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Like Box]]></name>
+			<description><![CDATA[The Like Box enables users to like your Facebook Page and view its stream directly from your website.]]></description>
+			<text><![CDATA[1. Open <a href="http://developers.facebook.com/docs/reference/plugins/like-box/" target="_blank"><b>Like Box</b></a>.<br/>2. Type in "Facebook Page URL" and customize plugin.<br/>3. Press "Get code".<br/>4. Copy "iframe" code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+	</group>
+<!-- Vkontakte -->
+	<group name="Vkontakte" icon="icons/vkontakte_icon.png">
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Groups]]></name>
+			<description><![CDATA[Community widget helps you connect your site to an appropriate usergroup or fanpage at Vkontakte. This widget allows one to subscribe to community news without leaving current page.]]></description>
+			<text><![CDATA[1. Open <a href="http://vkontakte.ru/developers.php?o=-1&p=Groups" target="_blank"><b>Groups</b></a>.<br/>2. Type in page url and customize plugin.<br/>3. Copy code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+	</group>
+<!-- Dropbox -->
+	<group name="Dropbox" icon="icons/dropbox_icon.png">
+		<template icon="icons/jotform_icon.png">
+			<name><![CDATA[Jot Form]]></name>
+			<description><![CDATA[JotForm is the first web based WYSIWYG form builder. Its intuitive drag and drop user interface makes form building a breeze. Using JotForm, you can create forms, integrate them to your site and receive responses by email.]]></description>
+			<text><![CDATA[1. Open <a href="http://www.jotform.com/dropbox/" target="_blank"><b>Dropbox forms</b></a> and press "Create a Dropbox Form".<br/>2. Login to your Dropbox account.<br/>3. Follow instructions and press "Launch From Builder".<br/>4. Press "Embed Form" and select "iFrame".<br/>5. Copy embed code and paste to the "HTML Code" section.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/dropittome_icon.png">
+			<name><![CDATA[DROPitTOme]]></name>
+			<description><![CDATA[With DROPitTOme you can securely receive files from anyone to your Dropbox account.]]></description>
+			<text><![CDATA[1. Open <a href="http://dropitto.me/" target="_blank"><b>DROPitTOme</b></a> and register.<br/>2. Get you own unique upload address.<br/>3. Paste url to the <b>src</b> attribute of the "HTML Code" section.]]></text>
+			<code><![CDATA[<iframe src="- Paste your url here -" width="100%" height="100%"></iframe>]]></code>
+		</template>
+	</group>
+<!-- Box -->
+	<template icon="icons/box_icon.png">
+		<name><![CDATA[Box]]></name>
+		<description><![CDATA[Box is a simple, scalable and affordable solution to manage documents, media and all your content online. Share files as a link. Sync files on the desktop. Its file sharing, reinvented.]]></description>
+		<text><![CDATA[
+1. Open <a href="http://www.box.net/" target="_blank"><b>Box</b></a> and signup.<br/>2. Create new folder and select it.<br/>3. Click "Folder Options", "Share" and "Embed folder in your site".<br/>4. Configure width and height.<br/>5. Copy embed code and paste to the "HTML Code" section.<br/>6. Set width="100%" height="100%".
+]]></text>
+		<code><![CDATA[
+<!-- paste code here -->
+]]></code>
+	</template>
+<!-- Flickr	-->
+	<template icon="icons/flickr_icon.png" useIFrame="true">
+		<name><![CDATA[Flickr Badge]]></name>
+		<description><![CDATA[Flickr is almost certainly the best online photo management and sharing application in the world. Show off your favorite photos and videos to the world, securely and privately show content to your friends and family, or blog the photos and videos you take with a cameraphone.]]></description>
+		<text><![CDATA[1. Open <a href="http://www.flickr.com/" target="_blank"><b>Flickr</b></a> and signup.<br/>2. Open <a href="http://www.flickr.com/badge.gne" target="_blank"><b>Flickr badge</b></a>.<br/>3. Select html or flash version and follow instructions.<br/>4. Copy code and paste to the "HTML Code" section.]]></text>
+		<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+<!-- paste code here -->
+</body></html>]]></code>
+	</template>
+<!-- Blogger -->
+	<template icon="icons/blogger_icon.png">
+		<name><![CDATA[Blogger]]></name>
+		<description><![CDATA[Blogger is a blog-publishing service that allows private or multi-user blogs with time-stamped entries.]]></description>
+		<text><![CDATA[1. Open <a href="http://www.blogger.com/" target="_blank"><b>Blogger</b></a> and signup.<br/>2. Create blog.<br/>3. Copy link to your blog and paste to the <b>src</b> attribute of the "HTML Code" section.]]></text>
+		<code><![CDATA[<iframe src="- Paste your blog url here -" width="100%" height="100%"></iframe>]]></code>
+	</template>
+<!-- Meebo -->
+	<template icon="icons/meebo_icon.png" useIFrame="true">
+		<name><![CDATA[Meebo]]></name>
+		<description><![CDATA[Meebo gives you the freedom to share. Whether you use Meebo here or on your favorite sites around the web, Meebo brings you and your friends together.]]></description>
+		<text><![CDATA[1. Open <a href="http://www.meebo.com/" target="_blank"><b>Meebo</b></a> and signup.<br/>2. Go to "Preferences" and select "Meebo Me Widgets".<br/>3. Name new widget.<br/>4. Copy embed code and paste to the "HTML Code" section.]]></text>
+		<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+	</template>
+<!-- Emailmeform -->
+	<template icon="icons/emailmeform_icon.png" useIFrame="true">
+		<name><![CDATA[Email Me Form]]></name>
+		<description><![CDATA[Email Me Form is a free online form generator service that helps you create HTML forms for your website, with no programming required.]]></description>
+		<text><![CDATA[1. Open <a href="http://www.emailmeform.com/" target="_blank"><b>Email Me Form</b></a> and signup.<br/>2. Create new form.<br/>3. Edit your form and save it.<br/>4. Open "Forms manager" and than "Code".<br/>5. Select "Html with Javascript/CSS".<br/>6. Copy embed code and paste to the "HTML Code" section.]]></text>
+		<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+<!-- paste code here -->
+</body></html>]]></code>
+	</template>
+<!-- Nabble -->
+	<template icon="icons/nabble_icon.png" useIFrame="true" showScrollBars="true">
+		<name><![CDATA[Nabble Forum]]></name>
+		<description><![CDATA[Add your free forum or any other hosted application to your website quick and easy.]]></description>
+		<text><![CDATA[1. Open <a href="http://n5.nabble.com/free-forum.html" target="_blank"><b>Nabble forum</b></a> and register.<br/>2. Open created forum.<br/>3. Select "Options", "Embedding options".<br/>4. Copy embed code and paste to the "HTML Code" section.<br/>5. In the module's properties panel check "Show scrollbars" option.]]></text>
+		<code><![CDATA[<html><head></head><body style="background: transparent; border: none;">
+<!-- paste code here -->
+</body></html>]]></code>
+	</template>
+<!-- Vimeo -->
+	<template icon="icons/vimeo_icon.png">
+		<name><![CDATA[Vimeo]]></name>
+		<description><![CDATA[Vimeo is a respectful community of creative people who are passionate about sharing the videos they make.]]></description>
+		<text><![CDATA[1. Open <a href="http://www.vimeo.com/" target="_blank"><b>Vimeo</b></a> and find the video you want to add.<br/>2. Press "Embed" button and copy code.<br/>3. Paste code to the "HTML Code" section.<br/>4. Resize module to fit selected size.]]></text>
+		<code><![CDATA[<!-- paste code here -->]]></code>
+	</template>
+<!-- SoundCloud -->
+	<template icon="icons/soundcloud_icon.png">
+		<name><![CDATA[SoundCloud]]></name>
+		<description><![CDATA[Create, record and share the sounds you create anywhere to friends, family and the world with SoundCloud, the world's largest community of sound creators.]]></description>
+		<text><![CDATA[1. Open <a href="http://soundcloud.com/" target="_blank"><b>SoundCloud</b></a> and sign up.<br/>2. Click the Share button above each Soundcloud music player to get the embed code.<br/>3. Paste code to the "HTML Code" section.]]></text>
+		<code><![CDATA[<!-- paste code here -->]]></code>
+	</template>
+
+<!--	<group name="" icon="">
+		<template icon="">
+			<name><![CDATA[]]></name>
+			<description><![CDATA[]]></description>
+			<text><![CDATA[]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!- - paste code here - ->
+</body></html>]]></code>
+		</template>
+	</group>-->
+</templates>

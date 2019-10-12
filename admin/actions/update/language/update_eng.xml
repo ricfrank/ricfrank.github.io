@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <text id="E_UPDATECMS"><![CDATA[Error while updating]]></text>
+    <text id="I_WINDOW_TITLE"><![CDATA[System updater]]></text>
+    <text id="I_TITLE"><![CDATA[Install update]]></text>
+    <text id="I_HEADER"><![CDATA[Welcome to CMS system updater. This wizard will check your hosting and guide you through updating process.]]></text>
+    <text id="I_FOOTER"><![CDATA[Please contact your hosting provider if you need to configure your server. For additional information please email to <a href="mailto:support@cms-guide.com">support@cms-guide.com</a>]]></text>
+    <text id="I_STEP_INIT"><![CDATA[<b>Starting system update.</b><br/>]]></text>
+    <text id="N_STEP_INIT_INFO"><![CDATA[Current client version: %clientVersion%<br/>Current Control Panel Version: %adminVersion%<br/>]]></text>
+    <text id="N_STEP_INIT_OK"><![CDATA[<b>Update to %VERSION%</b>]]></text>
+    <text id="I_STEP_UPDATE"><![CDATA[Updating to %version%]]></text>
+	<text id="I_STEP_BACKUP"><![CDATA[Creating backup<br/>]]></text>
+    <text id="N_STEP_BACKUP_INFO"><![CDATA[Using tempory folder <b>%folder%</b> <br/>Saved %fileCopied% files<br/>Archive <a href="./../%zipPath%">%zipName%</a> (%zipSize%kb) <br/>]]></text>
+    <text id="N_STEP_BACKUP_DEL_TEMP"><![CDATA[Removing temporary folder<br/>]]></text>
+    <text id="I_STEP_COPYING"><![CDATA[Copying files]]></text>
+    <text id="N_STEP_COPYING_INFO"><![CDATA[Copying files]]></text>
+    <text id="I_STEP_RUN_NEXT"><![CDATA[Proceed to next step...<br/>]]></text>
+    <text id="I_STEP_FINISH"><![CDATA[Status]]></text>
+    <text id="N_STEP_FINISH_INFO"><![CDATA[Current client version: %clientVersion%<br/>Current control panel version: %adminVersion%<br/>%message%<br/>Launch <a href="%MOTO_ADMIN_URL%/">control panel</a>]]></text>
+    <text id="E_FILE_NOT_EXISTS"><![CDATA[File %file% not found<br>]]></text>
+    <text id="E_DIR_NOT_EXISTS"><![CDATA[Folder %folder% not found<br>]]></text>
+    <text id="N_COPYING_START"><![CDATA[Processing <a href="%fileUrl%">content archive</a><br>]]></text>
+    <text id="N_COPYINGDIR_START"><![CDATA[Processing updates folder<br>]]></text>
+    <text id="N_COPYING_NO_ZIP_CLASS"><![CDATA[Error while opening content archive. Please save following <a href="%fileUrl%">file</a>, unpack it and upload contents to your server.<br>]]></text>
+    <text id="N_COPYING_COMPLETE_OK"><![CDATA[<b>Content copying completed</b><br>]]></text>
+    <text id="E_CHECK_EXISTS_CLASS"><![CDATA[Please check if following updater files exist:]]></text>
+    <text id="E_CHECK_EXISTS_FILES"><![CDATA[Please check if following file(s) exist and are writable: ]]></text>
+    <text id="E_UPDATE_PRECHECK_FAIL"><![CDATA[<b>Preliminary check failed.</b><br/>Please fix all errors and try running updater again.]]></text>
+    <text id="N_UPDATE_NO_NEED"><![CDATA[<b>Your system is up to date.</b><br>Launch <a href="%MOTO_ADMIN_URL%/">control panel</a>.]]></text>
+    <text id="E_PRECHECK_BS_NOT_INITED"><![CDATA[<b>Backup Service</b> was not initialized<br>]]></text>
+    <text id="E_PRECHECK_DEFAULT_KEYS"><![CDATA[<b>defaultKeys</b> not set.<br>]]></text>
+    <text id="E_PRECHECK_FILE_EXISTS"><![CDATA[<b>fileExists</b> not set.<br>]]></text>
+    <text id="E_PRECHECK_CLASS_EXISTS"><![CDATA[<b>classExists</b> not set.<br>]]></text>
+    <text id="N_PRECHECK_NO_ZIP"><![CDATA[<b>Class <b>ZipArchive</b> not found.</b><br>]]></text>
+    <text id="E_BACKUP_STORAGE_NOT_EXISTS"><![CDATA[<b>Backup Service</b>: Folder %storagePath% not found <br/>]]></text>
+    <text id="E_BACKUP_STORAGE_NOT_WRITEBLE"><![CDATA[<b>Backup Service</b>: Folder %storagePath% not writable. Please allow writing to this folder.<br/>]]></text>
+    <text id="N_START_UPDATE_INIT"><![CDATA[Starting update %version%...<br/>]]></text>
+    <text id="O_UPDATE_COMPLETE_OK"><![CDATA[<b>Update process completed successfully.</b><br>]]></text>
+    <text id="E_UPDATE_COMPLETE_BAD"><![CDATA[<b>Update system has encountered an error. Please fix errors and try running updater again</b><br>]]></text>
+    <text id="N_UPDATE_XML_REBUILD"><![CDATA[Updating file %file%<br/>]]></text>
+    <text id="N_UPDATE_SCAN_DATAPROVIDERS"><![CDATA[Creating data provider list<br/>]]></text>
+    <text id="N_START_UPDATE_COMPLETE"><![CDATA[Update completed<br>]]></text>
+    <text id="E_START_UPDATE_BREAK"><![CDATA[<br/><b>Update process is interrupted</b><br/>]]></text>
+    <text id="E_ACCESS_SYSTEM"><![CDATA[Cannot access system.xml file<br>]]></text>
+    <text id="E_ACCESS_XML"><![CDATA[Error while accessing file %file%<br>]]></text>
+    <text id="JS_START_UPDATE"><![CDATA[<b>Updating...</b>]]></text>
+    <text id="JS_START_WAIT"><![CDATA[<blink>Please wait...</blink>]]></text>
+    <text id="E_PRECHECK_SAFE_MODE"><![CDATA[We have detected that PHP's Safe Mode is enabled on your server. We recommend turning it off for our software to work normally. You can disable safe mode in your hosting control panel or by editing a php.ini file.]]></text>	
+    <text id="N_FOLDER_NOT_WRITABLE"><![CDATA[<br /><b>Note:</b> Folder <b>%name%</b> %path% is not writable.<br/>Please, check permissions of this folder.<br />]]></text>	
+    <text id="N_FOLDER_NOT_EXISTS"><![CDATA[<br /><b>Note:</b> Folder <b>%name%</b> %path% doesn't exist.<br/>Please, create it and set the correct permissions.<br />]]></text>	
+    <text id="E_BAD_ID_IN_FILE"><![CDATA[<b>ERROR</b>: Wrong id attribute for %type% in file %file%.<br />]]></text>
+    <text id="JS_START_BACKUP"><![CDATA[<b>Creating backup...</b>]]></text>
+    <text id="JS_E_ON_WORK_BACKUP"><![CDATA[<br /><div>Backup process was not finished. <a href="#" onclick="continueUpdate();return false;">Continue without backup</a>.</div>]]></text>
+</language>

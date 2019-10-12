@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<simpleGalleryModule>
+
+	<configuration>
+		<option id="previewPropertyID" editable="false">
+			<value>1</value>
+		</option>
+		<option id="thumbnailPropertyID" editable="false">
+			<value>2</value>
+		</option>
+		<option id="thumbnailWidth" editable="false">
+			<value>146</value>
+		</option>
+		<option id="thumbnailHeight" editable="false">
+			<value>100</value>
+		</option>
+		<option id="maxRootItems">
+			<value>0</value>
+		</option>
+	</configuration>
+	
+	<structure>
+		<properties>
+			<property id="1" type="image" keyName="preview">
+				<name><![CDATA[Preview]]></name>
+			</property>
+			<property id="2" type="image" keyName="thumbnail">
+				<name><![CDATA[Thumbnail]]></name>
+			</property>
+		</properties>
+		<template id="0" order="0">
+			<properties>
+				<item propertyType="1"/>
+				<item propertyType="2"/>
+			</properties>
+		</template>
+	</structure>
+
+	<data><item id="1" order="1"><properties><item propertyType="1"><![CDATA[images/gallery-img01bg.jpg]]></item><item propertyType="2"><![CDATA[images/gallery-img01.jpg]]></item></properties></item><item id="2" order="2"><properties><item propertyType="1"><![CDATA[images/gallery-img02bg.jpg]]></item><item propertyType="2"><![CDATA[images/gallery-img02.jpg]]></item></properties></item><item id="3" order="3"><properties><item propertyType="1"><![CDATA[images/gallery-img03bg.jpg]]></item><item propertyType="2"><![CDATA[images/gallery-img03.jpg]]></item></properties></item><item id="4" order="4"><properties><item propertyType="1"><![CDATA[images/gallery-img04bg.jpg]]></item><item propertyType="2"><![CDATA[images/gallery-img04.jpg]]></item></properties></item><item id="5" order="5"><properties><item propertyType="1"><![CDATA[images/gallery-img05bg.jpg]]></item><item propertyType="2"><![CDATA[images/gallery-img05.jpg]]></item></properties></item><item id="6" order="6"><properties><item propertyType="1"><![CDATA[images/gallery-img06bg.jpg]]></item><item propertyType="2"><![CDATA[images/gallery-img06.jpg]]></item></properties></item></data>
+
+</simpleGalleryModule>

@@ -1,0 +1,2 @@
+<?php
+class CustomModuleVO { public $id; public $url; public $uid; public $nameSpace; function __construct($parent) { $this->id = (string) $parent->getAttribute('id'); $this->url = (string) $parent->getAttribute('url'); $this->uid = (string) $parent->getAttribute('uid'); $this->nameSpace = (string) $parent->getAttribute('nameSpace'); } }

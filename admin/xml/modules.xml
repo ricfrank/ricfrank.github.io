@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modules>
+	<module id="contactFormModule" url="modules/contactFormModule/ContactFormModule.swf" phpLoaderFile="modules/contactFormModule/common.php" phpLoaderClass="ContactFormModuleService" phpRenderClass="Moto_Html_Render_Widget_ContactFormModule" jsClass="ContactFormModule"/>
+	<module id="googleMapModule" url="modules/googleMapModule/GoogleMapModule.swf" phpLoaderFile="modules/googleMapModule/common.php" phpLoaderClass="GoogleMapModuleService" phpRenderClass="Moto_Html_Render_Widget_GoogleMapModule" jsClass="GoogleMapModule"/>
+	<module id="htmlWidgetModule" url="modules/htmlWidgetModule/HtmlWidgetModule.swf" phpLoaderFile="modules/htmlWidgetModule/common.php" phpLoaderClass="HTMLWidgetModuleService" phpRenderClass="Moto_Html_Render_Widget_HtmlWidgetModule" jsClass="HTMLWidgetModule"/>
+	<module id="simpleGalleryModule" url="modules/simpleGalleryModule/SimpleGalleryModule.swf" phpLoaderFile="modules/simpleGalleryModule/common.php" phpLoaderClass="SimpleGalleryModuleService" phpRenderClass="Moto_Html_Render_Widget_SimpleGalleryModule" jsClass="SimpleGalleryModule"/>
+	<module id="menuModule" url="modules/menuModule/MenuModule.swf" phpLoaderFile="modules/menuModule/common.php" phpLoaderClass="MenuModuleService" phpRenderClass="Moto_Html_Render_Widget_MenuModule" jsClass="MenuModule"/>
+</modules>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+
+	<item name="CONTROL_PANEL_CONFIGURATION">xml/config.xml</item>
+
+	<item name="USER_DATA">data/users.xml</item>
+
+	<item name="SERVER_TEST">actions/check_requirements.php</item>
+
+	<item name="MEDIA_LIBRARY">xml/mediaLibrary.xml</item>
+
+	<item name="LANGUAGES_LIBRARY">xml/languages.xml</item>
+
+	<item name="LANGUAGES_LOCATION">language</item>
+
+	<item name="LANGUAGE_TEXTS">language.xml</item>
+
+	<item name="TEMPLATE_LOCATION" description=""><![CDATA[/]]></item>
+
+	<item name="TEMPLATE_CONFIGURATION">../config.xml</item>
+
+	<item name="MODULES_LIBRARY">xml/modules.xml</item>
+
+	<item name="FILE_UPLOAD_SCRIPT">actions/upload_media.php</item>
+
+	<item name="FONTS_UPLOAD_SCRIPT">actions/upload_fonts.php</item>
+	
+	<item name="BACKUP_SCRIPT">actions/backup/</item>
+
+	<item name="WEBSITE_URL" description=""><![CDATA[tennismatch.local:8080/]]></item>
+
+	<item name="CONTROL_PANEL_ASSETS">xml/assets.xml</item>
+
+	<item name="DEMO_MODE">false</item>
+	
+	<item name="REBRANDING_ENABLED">false</item>
+	
+	<item name="DEVELOPER_MODE">false</item>
+
+	<item name="GOOGLE_ANALYTICS_URI"><![CDATA[http://www.google.com/analytics/]]></item>
+
+	<item name="GOOGLE_WEBMASTER_TOOLS_URI"><![CDATA[http://www.google.com/webmasters/tools/]]></item>
+
+	<item name="ONLINE_FONT_CREATOR_URI"><![CDATA[http://www.cms-guide.com/online-font-creator/]]></item>
+
+	<item name="ONLINE_FONTS_URI"><![CDATA[http://fonts.cms-guide.com/google/]]></item>
+
+	<item name="CMS_HELP_URI"><![CDATA[http://cms-guide.com/]]></item>
+
+	<item name="CMS_ACCOUNTS_URI"><![CDATA[http://accounts.cms-guide.com/]]></item>
+
+	<item name="THUMBNAILS_ENABLED"><![CDATA[true]]></item>
+
+	<item name="THUMBNAIL_MAX_WIDTH"><![CDATA[260]]></item>
+
+	<item name="THUMBNAIL_MAX_HEIGHT"><![CDATA[240]]></item>
+
+	<item name="THUMBNAIL_JPG_QUALITY"><![CDATA[80]]></item>
+
+	<item name="CONTROL_PANEL_VERSION"><![CDATA[1.3.0]]></item>
+
+	<item name="YOUTUBE_API_SERVICE"><![CDATA[https://www.googleapis.com/youtube/v3/search]]></item>
+
+	<item name="YOUTUBE_DEVELOPER_KEY"><![CDATA[AIzaSyCWTPG9tHp186QdzafSdEBWn5pld_k6fBU]]></item>
+
+	<item name="BACKUP_AUTO_MODE"><![CDATA[true]]></item>
+
+	<item name="MOBILE_WEBSITE_FOLDER"><![CDATA[m]]></item>
+	
+	<item name="MOBILE_TEMPLATES_FOLDER"><![CDATA[m]]></item>
+
+</configuration>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infomodule>
+	<configuration>
+		<option id="titleID">
+			<value>1</value>
+		</option>
+	</configuration>
+
+	<structure>
+		<properties>
+			<property id="1" type="plainText" keyName="label">
+				<name><![CDATA[Label]]></name>
+			</property>
+			<property id="2" type="image" keyName="icon">
+				<name><![CDATA[Icon]]></name>
+			</property>
+		</properties>
+		<template id="0" parent="0" click="switchPage;page=1" order="0">
+			<properties>
+				<item propertyType="1"><![CDATA[MENU LABEL]]></item>
+				<item propertyType="2"><![CDATA[]]></item>
+			</properties>
+		</template>
+	</structure>
+
+	<data><item id="3" parent="0" click="switchPage;page=4" order="1"><properties><item propertyType="1"><![CDATA[HOME]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="1" parent="0" click="switchPage;page=1" order="2"><properties><item propertyType="1"><![CDATA[ABOUT]]></item><item propertyType="2"><![CDATA[]]></item></properties></item><item id="2" parent="0" click="switchPage;page=2" order="3"><properties><item propertyType="1"><![CDATA[LOCATION]]></item><item propertyType="2"><![CDATA[]]></item></properties></item></data>
+
+</infomodule>

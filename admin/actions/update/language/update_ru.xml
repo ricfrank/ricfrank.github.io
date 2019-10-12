@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <text id="E_UPDATECMS"><![CDATA[При обновлении возникла ошибка]]></text>
+    <text id="I_WINDOW_TITLE"><![CDATA[Обновление системы]]></text>
+    <text id="I_TITLE"><![CDATA[Установить обновление]]></text>
+    <text id="I_HEADER"><![CDATA[Добро пожаловать в обновление системы CMS. Мастер проверит Ваш хостинг и поможет выполнить обновление.]]></text>
+    <text id="I_FOOTER"><![CDATA[Пожалуйста, свяжитесь с Вашим хостинг-провайдером, если нужно настроить сервер. Для дополнительной информации, пожалуйста, пишите на <a href="mailto:support@cms-guide.com">support@cms-guide.com</a>]]></text>
+    <text id="I_STEP_INIT"><![CDATA[<b>Запуск обновления системы.</b><br/>]]></text>
+    <text id="N_STEP_INIT_INFO"><![CDATA[Текущая версия клиента: %clientVersion%<br/>Текущая версия панели управления: %adminVersion%<br/>]]></text>
+    <text id="N_STEP_INIT_OK"><![CDATA[<b>Обновить до %VERSION%</b>]]></text>
+    <text id="I_STEP_UPDATE"><![CDATA[Обновление до %version% ]]></text>
+    <text id="I_STEP_BACKUP"><![CDATA[Создание резервной копии<br/>]]></text>
+    <text id="N_STEP_BACKUP_INFO"><![CDATA[Используется временная папка <b>%folder%</b> <br/>Сохранено %fileCopied% файлов<br/>Архив <a href="./../%zipPath%">%zipName%</a> (%zipSize%kb) <br/>]]></text>
+    <text id="N_STEP_BACKUP_DEL_TEMP"><![CDATA[Удаление временной папки<br/>]]></text>
+    <text id="I_STEP_COPYING"><![CDATA[Копирование файлов]]></text>
+    <text id="N_STEP_COPYING_INFO"><![CDATA[Идет копирование файлов]]></text>
+    <text id="I_STEP_RUN_NEXT"><![CDATA[Перейдите к следующему шагу...<br/>]]></text>
+    <text id="I_STEP_FINISH"><![CDATA[Статус]]></text>
+    <text id="N_STEP_FINISH_INFO"><![CDATA[Текущая версия клиента: %clientVersion%<br/>Текущая версия панели управления: %adminVersion%<br/>%message%<br/>Перейти к <a href="%MOTO_ADMIN_URL%/">панели управления</a>]]></text>
+    <text id="E_FILE_NOT_EXISTS"><![CDATA[Файл %file% не найден<br>]]></text>
+    <text id="E_DIR_NOT_EXISTS"><![CDATA[Папка %folder% не найдена<br>]]></text>
+    <text id="N_COPYING_START"><![CDATA[Обработка <a href="%fileUrl%">архива содержимого</a><br>]]></text>
+    <text id="N_COPYINGDIR_START"><![CDATA[Обработка папки обновления<br>]]></text>
+    <text id="N_COPYING_NO_ZIP_CLASS"><![CDATA[Ошибка при открытии архива контента. Пожалуйста, сохраните следующий <a href="%fileUrl%">файл</a>, распакуйте его и загрузите содержимое на Ваш сервер.<br>]]></text>
+    <text id="N_COPYING_COMPLETE_OK"><![CDATA[Копирование содержимого завершено.</b><br>]]></text>
+    <text id="E_CHECK_EXISTS_CLASS"><![CDATA[Пожалуйста, проверьте, существует ли следующий файл:]]></text>
+    <text id="E_CHECK_EXISTS_FILES"><![CDATA[Пожалуйста, проверьте, существует ли следующий файл, и разрешена ли его запись: ]]></text>
+    <text id="E_UPDATE_PRECHECK_FAIL"><![CDATA[<b>Сбой предварительной проверки.</b><br/>Пожалуйста, исправьте все ошибки и попробуйте запустить обновление снова.]]></text>
+    <text id="N_UPDATE_NO_NEED"><![CDATA[<b>У Вас последняя версия системы.</b><br>Запустить <a href="%MOTO_ADMIN_URL%/">панель управления</a>.]]></text>
+    <text id="E_PRECHECK_BS_NOT_INITED"><![CDATA[<b>Служба резервного копирования</b> не инициализирована<br>]]></text>
+    <text id="E_PRECHECK_DEFAULT_KEYS"><![CDATA[<b>defaultKeys</b> не задан.<br>]]></text>
+    <text id="E_PRECHECK_FILE_EXISTS"><![CDATA[<b>fileExists</b> не задан.<br>]]></text>
+    <text id="E_PRECHECK_CLASS_EXISTS"><![CDATA[<b>classExists</b> не задан.<br>]]></text>
+    <text id="N_PRECHECK_NO_ZIP"><![CDATA[<b>Класс <b>ZipArchive</b> не найден.</b><br>]]></text>
+    <text id="E_BACKUP_STORAGE_NOT_EXISTS"><![CDATA[<b>Служба резервного копирования</b>: Папка %storagePath% не найдена <br/>]]></text>
+    <text id="E_BACKUP_STORAGE_NOT_WRITEBLE"><![CDATA[<b>Служба резервного копирования</b>: Папка %storagePath% не доступна для записи. Пожалуйста, установите права записи для этой папки.<br/>]]></text>
+    <text id="N_START_UPDATE_INIT"><![CDATA[Запущено обновление %version%...<br/>]]></text>
+    <text id="O_UPDATE_COMPLETE_OK"><![CDATA[<b>Процесс обновления завершен успешно.</b><br>]]></text>
+    <text id="E_UPDATE_COMPLETE_BAD"><![CDATA[<b>Сбой Системы обновления. Пожалуйста, исправьте все ошибки и попробуйте запустить обновление снова</b><br>]]></text>
+    <text id="N_UPDATE_XML_REBUILD"><![CDATA[Обновление файла %file%<br/>]]></text>
+    <text id="N_UPDATE_SCAN_DATAPROVIDERS"><![CDATA[Создание списка содержимого<br/>]]></text>
+    <text id="N_START_UPDATE_COMPLETE"><![CDATA[Обновление завершено<br/>]]></text>
+    <text id="E_START_UPDATE_BREAK"><![CDATA[<br/><b>Процесс обновления прерван</b><br/>]]></text>
+    <text id="E_ACCESS_SYSTEM"><![CDATA[Нет доступа к файлу system.xml<br>]]></text>
+    <text id="E_ACCESS_XML"><![CDATA[Ошибка доступа к файлу %file%<br>]]></text>
+    <text id="JS_START_UPDATE"><![CDATA[<b>Обновление...</b>]]></text>
+    <text id="JS_START_WAIT"><![CDATA[<blink>Пожалуйста, ожидайте...</blink>]]></text>
+    <text id="E_PRECHECK_SAFE_MODE"><![CDATA[Система обнаружила, что на Вашем сервере включен Безопасный Режим PHP. Мы рекомендуем отключить его для нормальной работы нашего программного обеспечения. Вы можете отключить Безопасный Режим в панели управления хостингом, либо отредактировав файл php.ini]]></text>
+    <text id="N_FOLDER_NOT_WRITABLE"><![CDATA[<br /><b>Внимание:</b> Папка <b>%name%</b> %path% недоступна для записи.<br/>Пожалуйста, проверьте права данной папки.<br />]]></text>	
+    <text id="N_FOLDER_NOT_EXISTS"><![CDATA[<br /><b>Внимание:</b> Папка <b>%name%</b> %path% не существует.<br/>Пожалуйста, создайте папку и задайте для нее права.<br />]]></text>	
+    <text id="E_BAD_ID_IN_FILE"><![CDATA[<b>Внимание ошибка</b>: В файле %file% не правильное соответствие атрибутов id в %type%.<br />]]></text>
+    <text id="JS_START_BACKUP"><![CDATA[<b>Создание резервной копии...</b>]]></text>
+    <text id="JS_E_ON_WORK_BACKUP"><![CDATA[<br /><div>Произошла ошибка при создании резервной копии. <a href="#" onclick="continueUpdate();return false;">Продолжить процесс обновления</a>.</div>]]></text>
+</language>

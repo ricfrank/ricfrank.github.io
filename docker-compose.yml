@@ -1,0 +1,42 @@
+version: '3'
+services:
+
+#  mysql:
+#    image: mysql:5.7
+#    ports:
+#      - 3306:3306
+#    environment:
+#      - MYSQL_ROOT_PASSWORD=tennis
+#      - MYSQL_USER=tennis
+#      - MYSQL_PASSWORD=tennis
+#      - MYSQL_DATABASE=tennis
+
+  web:
+    image: nginx:latest
+    ports:
+      - "8080:80"
+#    links:
+#      - php:php
+    volumes:
+      - .:/code
+      - ./site.conf:/etc/nginx/conf.d/site.conf
+
+#  php:
+#    image: php:7-fpm
+#    volumes:
+#      - .:/code
+
+#  adminer:
+#    image: adminer
+#    restart: always
+#    ports:
+#      - 8081:8080
+#
+#  php:
+#    volumes:
+#      - .:/code
+#    depends_on:
+#      - mysql
+#    build:
+#      context: ./
+#      dockerfile: ./Dockerfile

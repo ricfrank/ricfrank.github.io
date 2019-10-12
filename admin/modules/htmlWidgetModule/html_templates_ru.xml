@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+<!-- blank html -->
+	<template icon="icons/html_icon.png">
+		<name><![CDATA[Blank HTML]]></name>
+		<description><![CDATA[Используйте этот шаблон для вставки произвольного HTML кода. Вы можете использовать javascript, CSS стили, и любые стандартные HTML тэги.]]></description>
+		<text><![CDATA[Используйте этот шаблон для вставки произвольного HTML кода. Вы можете использовать javascript, CSS стили, и любые стандартные HTML тэги.]]></text>
+		<code><![CDATA[<html>
+	<head></head>
+	<body style="background: transparent; border: none;">
+		<!-- paste code here -->
+	</body>
+</html>]]></code>
+	</template>
+<!-- Google Applications -->
+	<group name="Google Приложения" icon="icons/google_icon.png">
+		<template icon="icons/google_document.png">
+			<name><![CDATA[Google Документ]]></name>
+			<description><![CDATA[Создавайте и обмениваться документами в Интернете и получить к ним доступ с любого компьютера или смартфона.]]></description>
+			<text><![CDATA[1. Откройте документ <a href="https://docs.google.com/" target="_blank"><b>здесь</b></a>.<br/>2. Нажмите на стрелку возле кнопки "Share" и выберите "Publish to the web".<br/>3. Скопируйте код и вставьте в секцию "HTML Код".<br/>4. Добавьте width="100%" height="100%" внутри тэга iframe.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/google_spreadsheet.png">
+			<name><![CDATA[Google Таблица]]></name>
+			<description><![CDATA[Создание и совместное использование таблиц в Интернете.]]></description>
+			<text><![CDATA[1. Откройте таблицу <a href="https://docs.google.com/" target="_blank"><b>здесь</b></a>.<br/>2. Нажмите на стрелку возле кнопки "Share" и выберите "Publish as a web page".<br/>3. Нажмите "Start publishing".<br/>4. На странице "Get a link to the published data" выберите "HTML to embed in a page".<br/>5. Скопируйте код и вставьте в секцию "HTML Код".<br/>6. Добавьте width="100%" height="100%" внутри тэга iframe.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/google_calendar.png">
+			<name><![CDATA[Google Календарь]]></name>
+			<description><![CDATA[Организация вашего расписание не должна быть в тягость. С помощью Календаря Google можно легко отслеживать важные события в жизни все в одном месте.]]></description>
+			<text><![CDATA[1. Откройте календарь <a href="https://www.google.com/calendar/" target="_blank"><b>здесь</b></a>.<br/>2. Нажмите на кнопку "Settings" под "My calendars" и выберите календарь.<br/>3. Скопируйте код из секции "Embed This Calendar" и вставьте сюда.<br/>4. Добавьте width="100%" height="100%" внутри тэга iframe.<br/>5. Вы также можете настроить цвет, размер, и другие опции.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/picasa_icon.png">
+			<name><![CDATA[Picasa Слайдшоу]]></name>
+			<description><![CDATA[Быстрый и удобный обмен фотографиями с Google.]]></description>
+			<text><![CDATA[1. Откройте альбом в Вашем аккаунте Picasa.<br/>2. Нажмите "Link to this album" справа.<br/>3. Нажмите "Embed Slideshow".<br/>4. Выберите размер слайдшоу.<br/>5. Скопируйте код и вставьте в секцию "HTML Код".<br/>6. Измените размер модуля в соответствии с выбранным размером.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/google_map.png">
+			<name><![CDATA[Google Карты]]></name>
+			<description><![CDATA[Найдите местные предприятия, просмотрите карты и узнайте, как проехать в Картах Google]]></description>
+			<text><![CDATA[1. Откройте <a href="http://maps.google.com" target="_blank"><b>Карты</b></a> и выберите место, которое Вы хотели бы отобразить.<br/>2. Нажмите "Link" в левом верхнем углу.<br/>3. Нажмите "Customize and preview embedded map".<br/>4. Выберите размер карты.<br/>5. Скопируйте код и вставьте в секцию "HTML Код".<br/>6. Измените размер модуля в соответствии с выбранным размером.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/youtube_icon.png">
+			<name><![CDATA[YouTube]]></name>
+			<description><![CDATA[YouTube - это место, чтобы смотреть, загружать и обмениваться видео.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://www.youtube.com/" target="_blank"><b>YouTube</b></a> и выберите видео, которое Вы хотели бы добавить.<br/>2. Нажмите на кнопку "Share" под видео, затем нажмите "Embed".<br/>3. Выберите размер видео.<br/>4. Скопируйте код и вставьте в секцию "HTML Код".<br/>5. Измените размер модуля в соответствии с выбранным размером.<br/>6.Добавьте ?wmode=opaque к ссылке на видео, чтобы избежать перекрытия.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+	</group>
+<!-- Google Friend Connect -->
+	<group name="Google Интернет Сообщества" icon="icons/google_icon.png">
+		<template>
+			<name><![CDATA[Участники]]></name>
+			<description><![CDATA[Предоставьте пользователям возможность присоединяться к сайту, создавать профили, находить людей и приглашать друзей в сообщество.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://www.google.com/friendconnect/" target="_blank"><b>Google friend connect</b></a>, добавьте свой веб-сайт и нажмите "Gadgets".<br/>2. Выберите гаджет "Members".<br/>3. Задайте размер и цвета гаджета.<br/>4. нажмите на кнопку "Generate code".<br/>5. Скопируйте код и вставьте в секцию "HTML Код".<br/>6. <a href="http://www.youtube.com/v/4agYZmIQ3aE&cc_load_policy=1&rel=0&hl=en&autoplay=1" target="_blank"><b>Просмотрите видео</b></a> чтобы узнать как добавить виджет.]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template>
+			<name><![CDATA[Социальная панель]]></name>
+			<description><![CDATA[Предоставьте пользователям возможность входить в систему, просматривать профили других участников, оставлять комментарии и видеть последние сведения об активности на сайте в верхней или нижней части веб-страницы.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://www.google.com/friendconnect/" target="_blank"><b>Google friend connect</b></a>, добавьте свой веб-сайт и нажмите "Gadgets".<br/>2. Выберите гаджет "Social bar".<br/>3. Задайте размер и цвета гаджета.<br/>4. нажмите на кнопку "Generate code".<br/>5. Скопируйте код и вставьте в секцию "HTML Код".<br/>6. <a href="http://www.youtube.com/v/hYYOHNPysjc&cc_load_policy=1&rel=0&hl=en&autoplay=1" target="_blank"><b>Просмотрите видео</b></a> чтобы узнать как добавить виджет.]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template>
+			<name><![CDATA[Комментарии]]></name>
+			<description><![CDATA[Предоставьте пользователям возможность оставлять комментарии и ссылки на видеоролики. Сообщения могут относиться к определенной странице или всему веб-сайту.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://www.google.com/friendconnect/" target="_blank"><b>Google friend connect</b></a>, добавьте свой веб-сайт и нажмите "Gadgets".<br/>2. Выберите гаджет "Comments".<br/>3. Задайте размер и цвета гаджета.<br/>4. Нажмите на кнопку "Generate code".<br/>5. Скопируйте код и вставьте в секцию "HTML Код".<br/>6. Отметьте опцию "Show scrollbars" на панели модуля.<br/>7. <a href="http://www.youtube.com/v/4HQ81jgnvBQ&cc_load_policy=1&rel=0&hl=en&autoplay=1"><b>Просмотрите видео</b></a> чтобы узнать как добавить виджет.]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+	</group>
+<!-- Twitter -->
+	<group name="Twitter" icon="icons/twitter_icon.png">
+		<template useIFrame="true">
+			<name><![CDATA[Профиль]]></name>
+			<description><![CDATA[Покажите Ваши самые последние обновления Twitter на любой веб-странице.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://twitter.com/about/resources/widgets/widget_profile" target="_blank"><b>Profile Widget</b></a>.<br/>2. Введите свое имя пользователя.<br/>3. Измените "Preferences" и "Appearance". Задайте "Auto width" в "Dimensions"<br/>4. Нажмите "Finish & Grab Code".<br/>5. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Поиск]]></name>
+			<description><![CDATA[Отображение результатов поиска в реальном времени! Идеально подходит для живых событий, трансляции, конференции, ТВ-шоу, или даже просто идти в ногу с новостями.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://twitter.com/about/resources/widgets/widget_search" target="_blank"><b>Search Widget</b></a>.<br/>2. Введите "Search Query".<br/>3. Добавьте заголовок.<br/>4. Нажмите "Finish & Grab Code".<br/>5. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Избранное]]></name>
+			<description><![CDATA[Покажите свои любимые твиты.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://twitter.com/about/resources/widgets/widget_faves" target="_blank"><b>Faves Widget</b></a>.<br/>2. Введите свое имя пользователя.<br/>3. Измените "Preferences" и "Appearance". Задайте "Auto width" в "Dimensions"<br/>4. Нажмите "Finish & Grab Code".<br/>5. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Список]]></name>
+			<description><![CDATA[Соберите свои любимые твиты в список.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://twitter.com/about/resources/widgets/widget_list" target="_blank"><b>List Widget</b></a>.<br/>2. Введите свое имя пользователя.<br/>3. Выберите имя списка.<br/>4. Нажмите "Finish & Grab Code".<br/>5. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Follow button]]></name>
+			<description><![CDATA[Продвигайте Ваш Twitter аккаунт что бы люди следовали за вами прямо с вашего сайта.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://twitter.com/about/resources/buttons" target="_blank"><b>Follow buttons</b></a>.<br/>2. Нажмите на понравившуюся кнопку.<br/>3. Скопируйте код и вставьте в секцию "HTML Код".<br/>4. Добавьте target="_blank" в &lt;a&gt; тэг.<br>5. Добавьте style="border: none;" в &lt;img&gt; тэг.]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template useIFrame="true">
+			<name><![CDATA[Tweet button]]></name>
+			<description><![CDATA[Добавьте "Tweet button" на Ваш сайт, и пусть люди легко и быстро обмениваться информацией на Twitter.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://twitter.com/about/resources/tweetbutton" target="_blank"><b>Tweet button</b></a>.<br/>2. Выберите стиль кнопки.<br/>3. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+	</group>
+<!-- Dashboard -->
+	<group name="Комментарии" icon="icons/dashboard_icon.png">
+		<template icon="icons/intensedebate_icon.png" useIFrame="true">
+			<name><![CDATA[IntenseDebate]]></name>
+			<description><![CDATA[Система комментирования IntenseDebate]]></description>
+			<text><![CDATA[1. Откройте <a href="http://www.intensedebate.com/" target="_blank"><b>IntenseDebate</b></a>.<br/>2. Зарегистрируйтесь и добавьте свой веб-сайт.<br/>3. Получите письмо-подтверждение и следуйте инструкции по установке.<br/>4. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<html><head /><body style="background:white; padding:20px;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template icon="icons/disqus_icon.png" useIFrame="true">
+			<name><![CDATA[Disqus]]></name>
+			<description><![CDATA[Disqus является глобальной системой комментариев, которая улучшает обсуждения на веб-сайтах и соединяет разговоры по всему Интернету.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://disqus.com/" target="_blank"><b>Disqus</b></a>.<br/>2. Зарегистрируйтесь и добавьте свой веб-сайт.<br/>3. Получите письмо-подтверждение и следуйте инструкции по установке.<br/>4. Выберите "Universal code".<br/>5. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<html><head /><body style="background:white; padding:20px;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+	</group>
+<!-- Facebook -->
+	<group name="Facebook" icon="icons/facebook_icon.png">
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Like Button]]></name>
+			<description><![CDATA["Like Button" позволяет пользователям обмениваться страницами с вашего сайта обратно в свой профиль Facebook одним щелчком мыши.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://developers.facebook.com/docs/reference/plugins/like/" target="_blank"><b>страницу кнопки Like</b></a>.<br/>2. Введите URL для кнопки Like и настройте стиль кнопки.<br/>3. Нажмите "Get code".<br/>4. Скопируйте код "iframe" и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Комментарии]]></name>
+			<description><![CDATA[Плагин "Комментарии" позволяет пользователям комментировать какие-либо часть контента на вашем сайте.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://developers.facebook.com/docs/reference/plugins/comments/" target="_blank"><b>Comments</b></a>.<br/>2. Введите URL для комментирования и настройте "Comments Box".<br/>3. Нажмите "Get code".<br/>4. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<html><head /><body style="background-color:white;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Лента новостей]]></name>
+			<description><![CDATA[Плагин "Лента" показывает пользователям, что их друзья делают на вашем сайте]]></description>
+			<text><![CDATA[1. Откройте <a href="http://developers.facebook.com/docs/reference/plugins/activity/" target="_blank"><b>Activity Feed</b></a>.<br/>2. Введите имя домена в "Domain" и настройте плагин.<br/>3. Нажмите "Get code".<br/>4. Скопируйте код "iframe" и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Рекомендации]]></name>
+			<description><![CDATA[Плагин "Рекомендации" показывает персональные рекомендации для пользователей.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://developers.facebook.com/docs/reference/plugins/recommendations/" target="_blank"><b>Recommendations</b></a>.<br/>2. Введите имя домена в "Domain" и настройте плагин.<br/>3. Нажмите "Get code".<br/>4. Скопируйте код "iframe" и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Like Box]]></name>
+			<description><![CDATA["Like Box" плагин позваляет отметить понравившиеся Вам страницы.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://developers.facebook.com/docs/reference/plugins/like-box/" target="_blank"><b>Like Box</b></a>.<br/>2. Введите адрес Facebook-страницы в "Facebook Page URL" и настройте плагин.<br/>3. Нажмите "Get code".<br/>4. Скопируйте код "iframe" и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+	</group>
+<!-- Vkontakte -->
+	<group name="Vkontakte" icon="icons/vkontakte_icon.png">
+		<template icon="" useIFrame="true">
+			<name><![CDATA[Группы]]></name>
+			<description><![CDATA[Виджет "Группы" позволяет подключить Ваш сайт в соответствующие группы пользователей или FanPage в Вконтакте.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://vkontakte.ru/developers.php?o=-1&p=Groups" target="_blank"><b>Groups</b></a>.<br/>2. Введите адрес страницы и настройте плагин.<br/>3. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+		</template>
+	</group>
+<!-- Dropbox -->
+	<group name="Dropbox" icon="icons/dropbox_icon.png">
+		<template icon="icons/jotform_icon.png">
+			<name><![CDATA[Jot Form]]></name>
+			<description><![CDATA[Используя JotForm, Вы можете создавать формы, интегрировать их на свой сайт и получать ответы по электронной почте.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://www.jotform.com/dropbox/" target="_blank"><b>Dropbox forms</b></a> и нажмите "Create a Dropbox Form".<br/>2. Войдите в свой аккаунт Dropbox.<br/>3. Следуйте указаниям и нажмите "Launch From Builder".<br/>4. Нажмите "Embed Form" и выберите "iFrame".<br/>5. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+			<code><![CDATA[<!-- paste code here -->]]></code>
+		</template>
+		<template icon="icons/dropittome_icon.png">
+			<name><![CDATA[DROPitTOme]]></name>
+			<description><![CDATA[С DROPitTOme вы можете безопасно получать файлы от кого-либо на ваш Dropbox эккаунт.]]></description>
+			<text><![CDATA[1. Откройте <a href="http://dropitto.me/" target="_blank"><b>DROPitTOme</b></a> и зарегистрируйтесь.<br/>2. Получите свой уникальный адрес для загрузки.<br/>3. Вставьте URL в атрибут <b>src</b> секции "HTML Код".]]></text>
+			<code><![CDATA[<iframe src="- Paste your url here -" width="100%" height="100%"></iframe>]]></code>
+		</template>
+	</group>
+<!-- Box -->
+	<template icon="icons/box_icon.png">
+		<name><![CDATA[Box]]></name>
+		<description><![CDATA[Box это простое, масштабируемое и доступное решение для управления документами, медиа и всем своим содержимым в Интернете.]]></description>
+		<text><![CDATA[1. Откройте <a href="http://www.box.net/" target="_blank"><b>Box</b></a> и войдите в систему.<br/>2. Создайте новый каталог и выберите его.<br/>3. Нажмите "Folder Options", "Share" и "Embed folder in your site".<br/>4. Настройте ширину и высоту.<br/>5. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+		<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+<!-- paste code here -->
+</body></html>]]></code>
+	</template>
+<!-- Flickr	-->
+	<template icon="icons/flickr_icon.png" useIFrame="true">
+		<name><![CDATA[Flickr Badge]]></name>
+		<description><![CDATA[Flickr, наверняка лучшая онлайн система управления фото и совместного использования в мире.]]></description>
+		<text><![CDATA[1. Откройте <a href="http://www.flickr.com/" target="_blank"><b>Flickr</b></a> и войдите в систему.<br/>2. Откройте гаджет <a href="http://www.flickr.com/badge.gne" target="_blank"><b>Flickr</b></a>.<br/>3. Выберите html или flash версию и следуйте инструкциям.<br/>4. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+		<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+<!-- paste code here -->
+</body></html>]]></code>
+	</template>
+<!-- Blogger -->
+	<template icon="icons/blogger_icon.png">
+		<name><![CDATA[Blogger]]></name>
+		<description><![CDATA[Сервис онлаин дневников.]]></description>
+		<text><![CDATA[1. Откройте <a href="http://www.blogger.com/" target="_blank"><b>Blogger</b></a> и войдите в систему.<br/>2. Создайте блог.<br/>3. Скопируйте ссылку на Ваш блог и вставьте в аттрибут <b>src</b> секции "HTML Код".]]></text>
+		<code><![CDATA[<iframe src="- Paste your blog url here -" width="100%" height="100%"></iframe>]]></code>
+	</template>
+<!-- Meebo -->
+	<template icon="icons/meebo_icon.png" useIFrame="true">
+		<name><![CDATA[Meebo]]></name>
+		<description><![CDATA[Система обмена мгновенными сообщениями.]]></description>
+		<text><![CDATA[1. Откройте <a href="http://www.meebo.com/" target="_blank"><b>Meebo</b></a> и войдите в систему.<br/>2. Перейдите в "Preferences" и выберите "Meebo Me Widgets".<br/>3. Назовите новый виджет.<br/>4. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+		<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here -->
+</body></html>]]></code>
+	</template>
+<!-- Emailmeform -->
+	<template icon="icons/emailmeform_icon.png" useIFrame="true">
+		<name><![CDATA[Email Me Form]]></name>
+		<description><![CDATA[Email Me Form это бесплатный сервис для создания формы, который позволяет создавать HTML-формы для вашего сайта.]]></description>
+		<text><![CDATA[1. Откройте <a href="http://www.emailmeform.com/" target="_blank"><b>Email Me Form</b></a> и войдите в систему.<br/>2. Создайте новую форму.<br/>3. Отредактируйте Вашу форму и сохраните ее.<br/>4. Откройте "Forms manager", затем "Code".<br/>5. Выберите "Html with Javascript/CSS".<br/>6. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+		<code><![CDATA[<html><head /><body style="background:white;">
+<!-- paste code here -->
+</body></html>]]></code>
+	</template>
+<!-- Nabble -->
+	<template icon="icons/nabble_icon.png" useIFrame="true"	>
+		<name><![CDATA[Nabble Forum]]></name>
+		<description><![CDATA[Онлаин приложение для создания форумов.]]></description>
+		<text><![CDATA[1. Откройте <a href="http://n5.nabble.com/free-forum.html" target="_blank"><b>форум Nabble</b></a> и зарегистрируйтесь.<br/>2. Откройте созданный форум.<br/>3. Выберите "Options", "Embedding options".<br/>4. Скопируйте код и вставьте в секцию "HTML Код".<br/>5. Отметьте опцию "Show scrollbars" на панели свойств модуля.]]></text>
+		<code><![CDATA[<html><head /><body style="background:white;">
+<!-- paste code here -->
+</body></html>]]></code>
+	</template>
+<!-- Vimeo -->
+	<template icon="icons/vimeo_icon.png">
+		<name><![CDATA[Vimeo]]></name>
+		<description><![CDATA[Бесплатный видеохостинг.]]></description>
+		<text><![CDATA[1. Откройте <a href="http://www.vimeo.com/" target="_blank"><b>Vimeo</b></a> и выберите видео, которое Вы хотели бы добавить.<br/>2. Нажмите кнопку "Embed" и скопирйуте код.<br/>3. Скопируйте код и вставьте в секцию "HTML Код".<br/>4. Измените размер модуля в соответствии с выбранным размером.]]></text>
+		<code><![CDATA[<!-- paste code here -->]]></code>
+	</template>
+<!-- SoundCloud -->
+	<template icon="icons/soundcloud_icon.png">
+		<name><![CDATA[SoundCloud]]></name>
+		<description><![CDATA[Онлайн-платформа и сайт для распространения оцифрованной звуковой информации.]]></description>
+		<text><![CDATA[1. Откройте <a href="http://soundcloud.com/" target="_blank"><b>SoundCloud</b></a> и войдите в систему.<br/>2. Нажмите кнопку "Share button" возле каждого плеера для получения кода.<br/>3. Скопируйте код и вставьте в секцию "HTML Код".]]></text>
+		<code><![CDATA[<!-- paste code here -->]]></code>
+	</template>
+
+	<!--	<group name="" icon="">
+		<template icon="">
+			<name><![CDATA[]]></name>
+			<description><![CDATA[]]></description>
+			<text><![CDATA[]]></text>
+			<code><![CDATA[<html><head /><body style="background: transparent; border: none;">
+	<!-- paste code here - ->
+</body></html>]]></code>
+		</template>
+	</group>-->
+</templates>

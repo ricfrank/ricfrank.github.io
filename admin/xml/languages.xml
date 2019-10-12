@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language id="eng">
+    <name><![CDATA[English]]></name>
+  </language>
+  <language id="ru">
+    <name><![CDATA[Русский]]></name>
+  </language>
+  <language id="es">
+    <name><![CDATA[Español]]></name>
+  </language>
+  <language id="fr">
+    <name><![CDATA[Français]]></name>
+  </language>
+  <language id="it">
+    <name><![CDATA[Italiano]]></name>
+  </language>
+  <language id="jp">
+    <name><![CDATA[日本語]]></name>
+  </language>
+  <language id="pl">
+    <name><![CDATA[Polski]]></name>
+  </language>
+  <language id="zh">
+    <name><![CDATA[中文]]></name>
+  </language>
+  <language id="bg">
+    <name><![CDATA[Български език]]></name>
+  </language>
+  <language id="tr">
+    <name><![CDATA[Türkçe]]></name>
+  </language>
+  <language id="nl">
+    <name><![CDATA[Dutch]]></name>
+  </language>
+  <language id="hu">
+    <name><![CDATA[Magyar]]></name>
+  </language>
+  <language id="pt">
+    <name><![CDATA[Português]]></name>
+  </language>
+  <language id="de">
+    <name><![CDATA[Deutsch]]></name>
+  </language>
+  <language id="cs">
+    <name><![CDATA[Český jazyk]]></name>
+  </language>
+</languages>
