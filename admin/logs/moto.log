@@ -1,0 +1,100 @@
+2019-10-12T21:58:38+00:00 ERR (3): [8] Undefined index: startPage
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoFrontController.php:2
+2019-10-12T21:58:38+00:00 ERR (3): [8] Undefined index: startPage
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoFrontController.php:2
+2019-10-12T21:58:38+00:00 ERR (3): [2] Creating default object from empty value
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoFrontController.php:2
+2019-10-12T21:58:38+00:00 ERR (3): [8] Undefined property: stdClass::$id
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php:2
+2019-10-12T21:58:38+00:00 ERR (3): [8] Undefined property: stdClass::$isProtected
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php:2
+2019-10-12T21:58:38+00:00 ERR (3): [8] Undefined property: stdClass::$popupTypeId
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Content.php:2
+2019-10-12T21:58:47+00:00 ERR (3): [8] Undefined index: startPage
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoFrontController.php:2
+2019-10-12T21:58:47+00:00 ERR (3): [8] Undefined index: startPage
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoFrontController.php:2
+2019-10-12T21:58:47+00:00 ERR (3): [2] Creating default object from empty value
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoFrontController.php:2
+2019-10-12T21:58:47+00:00 ERR (3): [8] Undefined property: stdClass::$id
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php:2
+2019-10-12T21:58:47+00:00 ERR (3): [8] Undefined property: stdClass::$isProtected
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php:2
+2019-10-12T21:58:47+00:00 ERR (3): [8] Undefined property: stdClass::$popupTypeId
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Content.php:2
+2019-10-12T21:59:11+00:00 ERR (3): [8] Undefined index: startPage
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoFrontController.php:2
+2019-10-12T21:59:11+00:00 ERR (3): [8] Undefined index: startPage
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoFrontController.php:2
+2019-10-12T21:59:11+00:00 ERR (3): [2] Creating default object from empty value
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoFrontController.php:2
+2019-10-12T21:59:11+00:00 ERR (3): [8] Undefined property: stdClass::$id
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php:2
+2019-10-12T21:59:11+00:00 ERR (3): [8] Undefined property: stdClass::$isProtected
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php:2
+2019-10-12T21:59:11+00:00 ERR (3): [8] Undefined property: stdClass::$popupTypeId
+	in file /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Content.php:2
+2019-10-13T07:35:34+00:00 ERR (3): [8] Constant IS_SMART_GETCONTENT already defined
+	in file /code/admin/libs/Moto/services/ContentService.php:78
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2
+2019-10-13T14:00:16+00:00 ERR (3): [8] A non well formed numeric value encountered
+	in file /code/admin/libs/Moto/services/vo/StyleVO.php:2

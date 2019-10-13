@@ -21,6 +21,6 @@
 		<option name="contentPreloader" description=""><![CDATA[images/preloader.gif]]></option>
 		<option name="loadEncodedData" description=""><![CDATA[false]]></option>
 		<option name="cacheEnabled" description=""><![CDATA[true]]></option>
-		<option name="redirectToMobile" description=""><![CDATA[true]]></option>
+		
 	</configuration>
 </motoConfig>

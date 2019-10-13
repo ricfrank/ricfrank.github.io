@@ -1,0 +1,30 @@
+[12-Oct-2019 21:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function item() on boolean in /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoXML.php:2
+Stack trace:
+#0 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoXML.php(2): MotoXML::findByXPath('./popups/popup[...', Object(DOMElement), '', true)
+#1 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Content.php(2): MotoXML::findOneByXPath('./popups/popup[...', Object(MotoXML))
+#2 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php(2): Moto_Html_Content->dispatch()
+#3 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php(2): Moto_Html_Application->_indexAction()
+#4 /Users/riccardo/Projects/ricfrank.github.io/index.php(2): Moto_Html_Application->dispatch()
+#5 /Users/riccardo/Projects/ricfrank.github.io/m/index.php(2): require_once('/Users/riccardo...')
+#6 {main}
+  thrown in /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoXML.php on line 2
+[12-Oct-2019 21:58:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function item() on boolean in /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoXML.php:2
+Stack trace:
+#0 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoXML.php(2): MotoXML::findByXPath('./popups/popup[...', Object(DOMElement), '', true)
+#1 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Content.php(2): MotoXML::findOneByXPath('./popups/popup[...', Object(MotoXML))
+#2 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php(2): Moto_Html_Content->dispatch()
+#3 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php(2): Moto_Html_Application->_indexAction()
+#4 /Users/riccardo/Projects/ricfrank.github.io/index.php(2): Moto_Html_Application->dispatch()
+#5 /Users/riccardo/Projects/ricfrank.github.io/m/index.php(2): require_once('/Users/riccardo...')
+#6 {main}
+  thrown in /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoXML.php on line 2
+[12-Oct-2019 21:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function item() on boolean in /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoXML.php:2
+Stack trace:
+#0 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoXML.php(2): MotoXML::findByXPath('./popups/popup[...', Object(DOMElement), '', true)
+#1 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Content.php(2): MotoXML::findOneByXPath('./popups/popup[...', Object(MotoXML))
+#2 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php(2): Moto_Html_Content->dispatch()
+#3 /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/Html/Application.php(2): Moto_Html_Application->_indexAction()
+#4 /Users/riccardo/Projects/ricfrank.github.io/index.php(2): Moto_Html_Application->dispatch()
+#5 /Users/riccardo/Projects/ricfrank.github.io/m/index.php(2): require_once('/Users/riccardo...')
+#6 {main}
+  thrown in /Users/riccardo/Projects/ricfrank.github.io/admin/libs/Moto/MotoXML.php on line 2

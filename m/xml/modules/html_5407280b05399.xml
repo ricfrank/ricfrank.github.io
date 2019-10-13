@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<htmlwidget>
+	<configuration><option id="showScrollBars"><value><![CDATA[false]]></value></option><option id="useIFrame"><value><![CDATA[false]]></value></option></configuration>
+	<data><![CDATA[<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/ms?msid=211706487577605788570.0005022ae876c2ec80785&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=40.724364,-74.067078&amp;spn=0.182133,0.291824&amp;z=11&amp;output=embed"></iframe>]]></data>
+</htmlwidget>
