@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<library maxUploadSize="67108864">
+<library maxUploadSize="2097152">
   <folders>
     <folder id="2" order="2" parent="1">
       <name><![CDATA[YouTube]]></name>
@@ -26,8 +26,8 @@
       <source>images/pause.png</source>
       <thumbnail>images/pause.png</thumbnail>
       <parameters>
-        <height><![CDATA[40]]></height>
         <width><![CDATA[40]]></width>
+        <height><![CDATA[40]]></height>
       </parameters>
     </item>
     <item type="image" size="692" parent="4" order="0" modificationDate="1333721669500">
@@ -35,8 +35,8 @@
       <source>images/play.png</source>
       <thumbnail>images/play.png</thumbnail>
       <parameters>
-        <height><![CDATA[40]]></height>
         <width><![CDATA[40]]></width>
+        <height><![CDATA[40]]></height>
       </parameters>
     </item>
     <item type="image" size="770" parent="4" order="0" modificationDate="1333721669625">
@@ -44,8 +44,8 @@
       <source>images/prev.png</source>
       <thumbnail>images/prev.png</thumbnail>
       <parameters>
-        <height><![CDATA[40]]></height>
         <width><![CDATA[40]]></width>
+        <height><![CDATA[40]]></height>
       </parameters>
     </item>
     <item type="image" size="735" parent="4" order="0" modificationDate="1333721669750">
@@ -53,8 +53,8 @@
       <source>images/close.png</source>
       <thumbnail>images/close.png</thumbnail>
       <parameters>
-        <height><![CDATA[40]]></height>
         <width><![CDATA[40]]></width>
+        <height><![CDATA[40]]></height>
       </parameters>
     </item>
     <item type="image" size="513" parent="4" order="0" modificationDate="1333721669875">
@@ -62,8 +62,8 @@
       <source>images/info.png</source>
       <thumbnail>images/info.png</thumbnail>
       <parameters>
-        <height><![CDATA[40]]></height>
         <width><![CDATA[40]]></width>
+        <height><![CDATA[40]]></height>
       </parameters>
     </item>
     <item type="image" size="771" parent="4" order="0" modificationDate="1333721670000">
@@ -71,8 +71,8 @@
       <source>images/next.png</source>
       <thumbnail>images/next.png</thumbnail>
       <parameters>
-        <height><![CDATA[40]]></height>
         <width><![CDATA[40]]></width>
+        <height><![CDATA[40]]></height>
       </parameters>
     </item>
     <item type="image" size="1389" parent="4" order="0" modificationDate="1338292191686">
@@ -80,8 +80,8 @@
       <source>images/arrow_left_hover.png</source>
       <thumbnail>images/arrow_left_hover.png</thumbnail>
       <parameters>
-        <height><![CDATA[45]]></height>
         <width><![CDATA[45]]></width>
+        <height><![CDATA[45]]></height>
       </parameters>
     </item>
     <item type="image" size="1414" parent="4" order="0" modificationDate="1338292191827">
@@ -89,8 +89,8 @@
       <source>images/arrow_left_up.png</source>
       <thumbnail>images/arrow_left_up.png</thumbnail>
       <parameters>
-        <height><![CDATA[45]]></height>
         <width><![CDATA[45]]></width>
+        <height><![CDATA[45]]></height>
       </parameters>
     </item>
     <item type="image" size="1392" parent="4" order="0" modificationDate="1338292191936">
@@ -98,8 +98,8 @@
       <source>images/arrow_right_hover.png</source>
       <thumbnail>images/arrow_right_hover.png</thumbnail>
       <parameters>
-        <height><![CDATA[45]]></height>
         <width><![CDATA[45]]></width>
+        <height><![CDATA[45]]></height>
       </parameters>
     </item>
     <item type="image" size="1369" parent="4" order="0" modificationDate="1338292192077">
@@ -107,8 +107,8 @@
       <source>images/arrow_right_up.png</source>
       <thumbnail>images/arrow_right_up.png</thumbnail>
       <parameters>
-        <height><![CDATA[45]]></height>
         <width><![CDATA[45]]></width>
+        <height><![CDATA[45]]></height>
       </parameters>
     </item>
     <item type="image" size="260" parent="4" order="0" modificationDate="1338292609555">
@@ -116,8 +116,8 @@
       <source>images/bullet_selected.png</source>
       <thumbnail>images/bullet_selected.png</thumbnail>
       <parameters>
-        <height><![CDATA[15]]></height>
         <width><![CDATA[15]]></width>
+        <height><![CDATA[15]]></height>
       </parameters>
     </item>
     <item type="image" size="261" parent="4" order="0" modificationDate="1338292609696">
@@ -125,8 +125,8 @@
       <source>images/bullet_up.png</source>
       <thumbnail>images/bullet_up.png</thumbnail>
       <parameters>
-        <height><![CDATA[15]]></height>
         <width><![CDATA[15]]></width>
+        <height><![CDATA[15]]></height>
       </parameters>
     </item>
     <item type="image" size="1290" parent="4" order="0" modificationDate="1340887946468">
@@ -134,8 +134,8 @@
       <source>images/prev_arrow_big.png</source>
       <thumbnail>images/prev_arrow_big.png</thumbnail>
       <parameters>
-        <height><![CDATA[144]]></height>
         <width><![CDATA[79]]></width>
+        <height><![CDATA[144]]></height>
       </parameters>
     </item>
     <item type="image" size="1282" parent="4" order="0" modificationDate="1340887946578">
@@ -143,8 +143,8 @@
       <source>images/next_arrow_big.png</source>
       <thumbnail>images/next_arrow_big.png</thumbnail>
       <parameters>
-        <height><![CDATA[144]]></height>
         <width><![CDATA[79]]></width>
+        <height><![CDATA[144]]></height>
       </parameters>
     </item>
     <item type="image" size="703" parent="4" order="0" modificationDate="0">
@@ -152,8 +152,8 @@
       <source>images/lightbox/lightbox_close.png</source>
       <thumbnail>images/lightbox/lightbox_close.png</thumbnail>
       <parameters>
-        <height><![CDATA[44]]></height>
         <width><![CDATA[44]]></width>
+        <height><![CDATA[44]]></height>
       </parameters>
     </item>
     <item type="image" size="436" parent="4" order="0" modificationDate="0">
@@ -161,8 +161,8 @@
       <source>images/lightbox/lightbox_thumbnails_prev.png</source>
       <thumbnail>images/lightbox/lightbox_thumbnails_prev.png</thumbnail>
       <parameters>
-        <height><![CDATA[42]]></height>
         <width><![CDATA[26]]></width>
+        <height><![CDATA[42]]></height>
       </parameters>
     </item>
     <item type="image" size="416" parent="4" order="0" modificationDate="0">
@@ -170,8 +170,8 @@
       <source>images/lightbox/lightbox_thumbnails_next.png</source>
       <thumbnail>images/lightbox/lightbox_thumbnails_next.png</thumbnail>
       <parameters>
-        <height><![CDATA[42]]></height>
         <width><![CDATA[26]]></width>
+        <height><![CDATA[42]]></height>
       </parameters>
     </item>
     <item type="image" size="813" parent="4" order="0" modificationDate="0">
@@ -179,8 +179,8 @@
       <source>images/lightbox/lightbox_show_thumbnails.png</source>
       <thumbnail>images/lightbox/lightbox_show_thumbnails.png</thumbnail>
       <parameters>
-        <height><![CDATA[27]]></height>
         <width><![CDATA[73]]></width>
+        <height><![CDATA[27]]></height>
       </parameters>
     </item>
     <item type="image" size="5969" parent="1" order="0" modificationDate="1349698511156">
@@ -188,8 +188,8 @@
       <source>images/gallery_loading.gif</source>
       <thumbnail>images/gallery_loading.gif</thumbnail>
       <parameters>
-        <height><![CDATA[42]]></height>
         <width><![CDATA[42]]></width>
+        <height><![CDATA[42]]></height>
       </parameters>
     </item>
     <item type="image" size="1229" parent="6" order="0" modificationDate="1535481884619">
@@ -197,8 +197,8 @@
       <source>images/local-icon.png</source>
       <thumbnail>images/local-icon.png</thumbnail>
       <parameters>
-        <height><![CDATA[14]]></height>
         <width><![CDATA[10]]></width>
+        <height><![CDATA[14]]></height>
       </parameters>
     </item>
     <item type="image" size="1192" parent="6" order="0" modificationDate="1535481884992">
@@ -206,8 +206,8 @@
       <source>images/mail-icon.png</source>
       <thumbnail>images/mail-icon.png</thumbnail>
       <parameters>
-        <height><![CDATA[11]]></height>
         <width><![CDATA[14]]></width>
+        <height><![CDATA[11]]></height>
       </parameters>
     </item>
     <item type="image" size="1212" parent="6" order="0" modificationDate="1535481885373">
@@ -215,8 +215,8 @@
       <source>images/phone-icon.png</source>
       <thumbnail>images/phone-icon.png</thumbnail>
       <parameters>
-        <height><![CDATA[13]]></height>
         <width><![CDATA[13]]></width>
+        <height><![CDATA[13]]></height>
       </parameters>
     </item>
     <item type="image" size="1146" parent="6" order="0" modificationDate="1535481885755">
@@ -224,8 +224,8 @@
       <source>images/soc-icon01.png</source>
       <thumbnail>images/soc-icon01.png</thumbnail>
       <parameters>
-        <height><![CDATA[13]]></height>
         <width><![CDATA[8]]></width>
+        <height><![CDATA[13]]></height>
       </parameters>
     </item>
     <item type="image" size="1203" parent="6" order="0" modificationDate="1535481886139">
@@ -233,8 +233,8 @@
       <source>images/soc-icon02.png</source>
       <thumbnail>images/soc-icon02.png</thumbnail>
       <parameters>
-        <height><![CDATA[11]]></height>
         <width><![CDATA[13]]></width>
+        <height><![CDATA[11]]></height>
       </parameters>
     </item>
     <item type="image" size="1242" parent="6" order="0" modificationDate="1535481886487">
@@ -242,8 +242,8 @@
       <source>images/soc-icon03.png</source>
       <thumbnail>images/soc-icon03.png</thumbnail>
       <parameters>
-        <height><![CDATA[12]]></height>
         <width><![CDATA[18]]></width>
+        <height><![CDATA[12]]></height>
       </parameters>
     </item>
     <item type="image" size="1179" parent="6" order="0" modificationDate="1535481886852">
@@ -251,8 +251,8 @@
       <source>images/soc-icon04.png</source>
       <thumbnail>images/soc-icon04.png</thumbnail>
       <parameters>
-        <height><![CDATA[12]]></height>
         <width><![CDATA[12]]></width>
+        <height><![CDATA[12]]></height>
       </parameters>
     </item>
     <item type="image" size="1172" parent="6" order="0" modificationDate="1535481887203">
@@ -260,8 +260,8 @@
       <source>images/soc-icon05.png</source>
       <thumbnail>images/soc-icon05.png</thumbnail>
       <parameters>
-        <height><![CDATA[11]]></height>
         <width><![CDATA[14]]></width>
+        <height><![CDATA[11]]></height>
       </parameters>
     </item>
     <item type="image" size="1202" parent="6" order="0" modificationDate="1535481887555">
@@ -269,8 +269,8 @@
       <source>images/soc-icon06.png</source>
       <thumbnail>images/soc-icon06.png</thumbnail>
       <parameters>
-        <height><![CDATA[11]]></height>
         <width><![CDATA[11]]></width>
+        <height><![CDATA[11]]></height>
       </parameters>
     </item>
     <item type="image" size="356048" parent="1" order="0" modificationDate="1535481933207">
@@ -278,8 +278,8 @@
       <source>images/content-bg01.jpg</source>
       <thumbnail>images/_preview/content-bg01.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1100]]></height>
         <width><![CDATA[1920]]></width>
+        <height><![CDATA[1100]]></height>
       </parameters>
     </item>
     <item type="image" size="772026" parent="1" order="0" modificationDate="1535481934626">
@@ -287,8 +287,8 @@
       <source>images/content-bg02.png</source>
       <thumbnail>images/_preview/content-bg02.png</thumbnail>
       <parameters>
-        <height><![CDATA[1044]]></height>
         <width><![CDATA[716]]></width>
+        <height><![CDATA[1044]]></height>
       </parameters>
     </item>
     <item type="image" size="230456" parent="1" order="0" modificationDate="1535481935719">
@@ -296,8 +296,8 @@
       <source>images/content-bg03.jpg</source>
       <thumbnail>images/_preview/content-bg03.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[630]]></height>
         <width><![CDATA[835]]></width>
+        <height><![CDATA[630]]></height>
       </parameters>
     </item>
     <item type="image" size="345110" parent="1" order="0" modificationDate="1535481936889">
@@ -305,8 +305,8 @@
       <source>images/content-bg04.jpg</source>
       <thumbnail>images/_preview/content-bg04.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[886]]></height>
         <width><![CDATA[1920]]></width>
+        <height><![CDATA[886]]></height>
       </parameters>
     </item>
     <item type="image" size="2527" parent="1" order="0" modificationDate="1535482070675">
@@ -314,8 +314,8 @@
       <source>images/logo.png</source>
       <thumbnail>images/logo.png</thumbnail>
       <parameters>
-        <height><![CDATA[55]]></height>
         <width><![CDATA[57]]></width>
+        <height><![CDATA[55]]></height>
       </parameters>
     </item>
     <item type="image" size="1057" parent="6" order="0" modificationDate="1535490054786">
@@ -323,8 +323,8 @@
       <source>images/top-icon.png</source>
       <thumbnail>images/top-icon.png</thumbnail>
       <parameters>
-        <height><![CDATA[16]]></height>
         <width><![CDATA[16]]></width>
+        <height><![CDATA[16]]></height>
       </parameters>
     </item>
     <item type="image" size="7330" parent="1" order="0" modificationDate="1535541784117">
@@ -332,8 +332,8 @@
       <source>images/favicon.jpg</source>
       <thumbnail>images/favicon.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[100]]></height>
         <width><![CDATA[100]]></width>
+        <height><![CDATA[100]]></height>
       </parameters>
     </item>
     <item type="image" size="47125" parent="3" order="3" modificationDate="1535544837350">
@@ -341,8 +341,8 @@
       <source>images/gallery-img02.jpg</source>
       <thumbnail>images/_preview/gallery-img02.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="164033" parent="3" order="4" modificationDate="1535544839048">
@@ -350,8 +350,8 @@
       <source>images/gallery-img02bg.jpg</source>
       <thumbnail>images/_preview/gallery-img02bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1623]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="42588" parent="3" order="5" modificationDate="1535544839997">
@@ -359,8 +359,8 @@
       <source>images/gallery-img03.jpg</source>
       <thumbnail>images/_preview/gallery-img03.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="150179" parent="3" order="6" modificationDate="1535544841590">
@@ -368,8 +368,8 @@
       <source>images/gallery-img03bg.jpg</source>
       <thumbnail>images/_preview/gallery-img03bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1622]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="78275" parent="3" order="7" modificationDate="1535544842670">
@@ -377,8 +377,8 @@
       <source>images/gallery-img04.jpg</source>
       <thumbnail>images/_preview/gallery-img04.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="273966" parent="3" order="8" modificationDate="1535544845104">
@@ -386,8 +386,8 @@
       <source>images/gallery-img04bg.jpg</source>
       <thumbnail>images/_preview/gallery-img04bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1618]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="43544" parent="3" order="9" modificationDate="1535544845985">
@@ -395,8 +395,8 @@
       <source>images/gallery-img05.jpg</source>
       <thumbnail>images/_preview/gallery-img05.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="39902" parent="3" order="11" modificationDate="1535544848521">
@@ -404,8 +404,8 @@
       <source>images/gallery-img06.jpg</source>
       <thumbnail>images/_preview/gallery-img06.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="119920" parent="3" order="12" modificationDate="1535544849889">
@@ -413,8 +413,8 @@
       <source>images/gallery-img06bg.jpg</source>
       <thumbnail>images/_preview/gallery-img06bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1622]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="202115" parent="3" order="14" modificationDate="1535544852836">
@@ -422,8 +422,8 @@
       <source>images/gallery-img07bg.jpg</source>
       <thumbnail>images/_preview/gallery-img07bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1620]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="270141" parent="3" order="16" modificationDate="1535544856047">
@@ -431,8 +431,8 @@
       <source>images/gallery-img08bg.jpg</source>
       <thumbnail>images/_preview/gallery-img08bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1618]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="155257" parent="3" order="18" modificationDate="1535544858629">
@@ -440,8 +440,8 @@
       <source>images/gallery-img09bg.jpg</source>
       <thumbnail>images/_preview/gallery-img09bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1620]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="65486" parent="3" order="19" modificationDate="1535544859631">
@@ -449,8 +449,8 @@
       <source>images/gallery-img10.jpg</source>
       <thumbnail>images/_preview/gallery-img10.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="247266" parent="3" order="20" modificationDate="1535544861823">
@@ -458,8 +458,8 @@
       <source>images/gallery-img10bg.jpg</source>
       <thumbnail>images/_preview/gallery-img10bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1620]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="289547" parent="3" order="21" modificationDate="1535544865081">
@@ -467,8 +467,8 @@
       <source>images/gallery-img11bg.jpg</source>
       <thumbnail>images/_preview/gallery-img11bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1639]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="35957" parent="3" order="23" modificationDate="1535544865965">
@@ -476,8 +476,8 @@
       <source>images/gallery-img12.jpg</source>
       <thumbnail>images/_preview/gallery-img12.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="143602" parent="3" order="24" modificationDate="1535545070765">
@@ -485,8 +485,8 @@
       <source>images/gallery-img12bg.jpg</source>
       <thumbnail>images/_preview/gallery-img12bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1618]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="151024" parent="3" order="10" modificationDate="1535545118105">
@@ -494,8 +494,8 @@
       <source>images/gallery-img05bg.jpg</source>
       <thumbnail>images/_preview/gallery-img05bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1618]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="40162" parent="3" order="17" modificationDate="1535545301076">
@@ -503,8 +503,8 @@
       <source>images/gallery-img09.jpg</source>
       <thumbnail>images/_preview/gallery-img09.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="53039" parent="3" order="13" modificationDate="1535545337737">
@@ -512,8 +512,8 @@
       <source>images/gallery-img07.jpg</source>
       <thumbnail>images/_preview/gallery-img07.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="79318" parent="3" order="15" modificationDate="1535546381792">
@@ -521,8 +521,8 @@
       <source>images/gallery-img08.jpg</source>
       <thumbnail>images/_preview/gallery-img08.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="45610" parent="3" order="1" modificationDate="1535546402489">
@@ -530,8 +530,8 @@
       <source>images/gallery-img01.jpg</source>
       <thumbnail>images/_preview/gallery-img01.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[295]]></height>
         <width><![CDATA[395]]></width>
+        <height><![CDATA[295]]></height>
       </parameters>
     </item>
     <item type="image" size="161075" parent="3" order="2" modificationDate="1535546402882">
@@ -539,8 +539,8 @@
       <source>images/gallery-img01bg.jpg</source>
       <thumbnail>images/_preview/gallery-img01bg.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[1080]]></height>
         <width><![CDATA[1620]]></width>
+        <height><![CDATA[1080]]></height>
       </parameters>
     </item>
     <item type="image" size="84359" parent="1" order="0" modificationDate="1535547340701">
@@ -548,8 +548,8 @@
       <source>images/team-img01.jpg</source>
       <thumbnail>images/_preview/team-img01.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[614]]></height>
         <width><![CDATA[480]]></width>
+        <height><![CDATA[614]]></height>
       </parameters>
     </item>
     <item type="image" size="83407" parent="1" order="0" modificationDate="1535547340894">
@@ -557,8 +557,8 @@
       <source>images/team-img02.jpg</source>
       <thumbnail>images/_preview/team-img02.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[614]]></height>
         <width><![CDATA[480]]></width>
+        <height><![CDATA[614]]></height>
       </parameters>
     </item>
     <item type="image" size="79248" parent="1" order="0" modificationDate="1535547341039">
@@ -566,8 +566,8 @@
       <source>images/team-img03.jpg</source>
       <thumbnail>images/_preview/team-img03.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[614]]></height>
         <width><![CDATA[480]]></width>
+        <height><![CDATA[614]]></height>
       </parameters>
     </item>
     <item type="image" size="79956" parent="1" order="0" modificationDate="1535547341204">
@@ -575,8 +575,8 @@
       <source>images/team-img04.jpg</source>
       <thumbnail>images/_preview/team-img04.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[614]]></height>
         <width><![CDATA[480]]></width>
+        <height><![CDATA[614]]></height>
       </parameters>
     </item>
     <item type="image" size="5750" parent="1" order="0" modificationDate="1535547341306">
@@ -584,8 +584,8 @@
       <source>images/testi-img01.jpg</source>
       <thumbnail>images/testi-img01.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[90]]></height>
         <width><![CDATA[90]]></width>
+        <height><![CDATA[90]]></height>
       </parameters>
     </item>
     <item type="image" size="5367" parent="1" order="0" modificationDate="1535547341404">
@@ -593,8 +593,8 @@
       <source>images/testi-img02.jpg</source>
       <thumbnail>images/testi-img02.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[90]]></height>
         <width><![CDATA[90]]></width>
+        <height><![CDATA[90]]></height>
       </parameters>
     </item>
     <item type="image" size="1011" parent="6" order="0" modificationDate="1535547445848">
@@ -602,8 +602,8 @@
       <source>images/soc02-icon01.png</source>
       <thumbnail>images/soc02-icon01.png</thumbnail>
       <parameters>
-        <height><![CDATA[13]]></height>
         <width><![CDATA[8]]></width>
+        <height><![CDATA[13]]></height>
       </parameters>
     </item>
     <item type="image" size="997" parent="6" order="0" modificationDate="1535547445988">
@@ -611,8 +611,8 @@
       <source>images/soc02-icon01-hover.png</source>
       <thumbnail>images/soc02-icon01-hover.png</thumbnail>
       <parameters>
-        <height><![CDATA[13]]></height>
         <width><![CDATA[8]]></width>
+        <height><![CDATA[13]]></height>
       </parameters>
     </item>
     <item type="image" size="1084" parent="6" order="0" modificationDate="1535547446071">
@@ -620,8 +620,8 @@
       <source>images/soc02-icon02.png</source>
       <thumbnail>images/soc02-icon02.png</thumbnail>
       <parameters>
-        <height><![CDATA[10]]></height>
         <width><![CDATA[13]]></width>
+        <height><![CDATA[10]]></height>
       </parameters>
     </item>
     <item type="image" size="1035" parent="6" order="0" modificationDate="1535547446220">
@@ -629,8 +629,8 @@
       <source>images/soc02-icon02-hover.png</source>
       <thumbnail>images/soc02-icon02-hover.png</thumbnail>
       <parameters>
-        <height><![CDATA[10]]></height>
         <width><![CDATA[13]]></width>
+        <height><![CDATA[10]]></height>
       </parameters>
     </item>
     <item type="image" size="1152" parent="6" order="0" modificationDate="1535547446321">
@@ -638,8 +638,8 @@
       <source>images/soc02-icon03.png</source>
       <thumbnail>images/soc02-icon03.png</thumbnail>
       <parameters>
-        <height><![CDATA[12]]></height>
         <width><![CDATA[18]]></width>
+        <height><![CDATA[12]]></height>
       </parameters>
     </item>
     <item type="image" size="1093" parent="6" order="0" modificationDate="1535547446393">
@@ -647,8 +647,8 @@
       <source>images/soc02-icon03-hover.png</source>
       <thumbnail>images/soc02-icon03-hover.png</thumbnail>
       <parameters>
-        <height><![CDATA[12]]></height>
         <width><![CDATA[18]]></width>
+        <height><![CDATA[12]]></height>
       </parameters>
     </item>
     <item type="image" size="1457" parent="6" order="0" modificationDate="1535547983723">
@@ -656,8 +656,8 @@
       <source>images/testi-img03.png</source>
       <thumbnail>images/testi-img03.png</thumbnail>
       <parameters>
-        <height><![CDATA[47]]></height>
         <width><![CDATA[55]]></width>
+        <height><![CDATA[47]]></height>
       </parameters>
     </item>
     <item type="image" size="153813" parent="1" order="0" modificationDate="1535550088437">
@@ -665,8 +665,8 @@
       <source>images/services-img01.jpg</source>
       <thumbnail>images/_preview/services-img01.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[630]]></height>
         <width><![CDATA[835]]></width>
+        <height><![CDATA[630]]></height>
       </parameters>
     </item>
     <item type="image" size="251738" parent="1" order="0" modificationDate="1535550088670">
@@ -674,8 +674,8 @@
       <source>images/services-img02.jpg</source>
       <thumbnail>images/_preview/services-img02.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[630]]></height>
         <width><![CDATA[835]]></width>
+        <height><![CDATA[630]]></height>
       </parameters>
     </item>
     <item type="image" size="483746" parent="1" order="0" modificationDate="1535550088886">
@@ -683,8 +683,8 @@
       <source>images/services-img03.jpg</source>
       <thumbnail>images/_preview/services-img03.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[630]]></height>
         <width><![CDATA[835]]></width>
+        <height><![CDATA[630]]></height>
       </parameters>
     </item>
     <item type="image" size="1130" parent="6" order="0" modificationDate="1535550678030">
@@ -692,8 +692,8 @@
       <source>images/menu-line.jpg</source>
       <thumbnail>images/menu-line.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[2]]></height>
         <width><![CDATA[20]]></width>
+        <height><![CDATA[2]]></height>
       </parameters>
     </item>
     <item type="image" size="121572" parent="1" order="0" modificationDate="1535621330710">
@@ -701,8 +701,8 @@
       <source>images/content-bg05.jpg</source>
       <thumbnail>images/_preview/content-bg05.jpg</thumbnail>
       <parameters>
-        <height><![CDATA[600]]></height>
         <width><![CDATA[1920]]></width>
+        <height><![CDATA[600]]></height>
       </parameters>
     </item>
     <item type="image" size="251110" parent="1" order="0" modificationDate="1535629365558">
@@ -739,6 +739,15 @@
       <parameters>
         <width><![CDATA[144]]></width>
         <height><![CDATA[32]]></height>
+      </parameters>
+    </item>
+    <item type="image" size="24259" parent="6" order="0" modificationDate="1571394158490">
+      <name><![CDATA[telegram-icon.png]]></name>
+      <source>images/telegram-icon.png</source>
+      <thumbnail>images/_preview/telegram-icon.png</thumbnail>
+      <parameters>
+        <width><![CDATA[512]]></width>
+        <height><![CDATA[512]]></height>
       </parameters>
     </item>
   </items>
