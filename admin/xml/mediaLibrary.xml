@@ -750,5 +750,14 @@
         <height><![CDATA[512]]></height>
       </parameters>
     </item>
+    <item type="image" size="2399" parent="6" order="0" modificationDate="1571775249823">
+      <name><![CDATA[privacy.png]]></name>
+      <source>images/privacy.png</source>
+      <thumbnail>images/privacy.png</thumbnail>
+      <parameters>
+        <width><![CDATA[225]]></width>
+        <height><![CDATA[225]]></height>
+      </parameters>
+    </item>
   </items>
 </library>
